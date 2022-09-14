@@ -1,0 +1,4083 @@
+[
+ {
+  "box": [
+   158,
+   262,
+   1770,
+   2472
+  ],
+  "comment": "",
+  "id": 256,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 255,
+  "text_ocr": "",
+  "type": "PAGE"
+ },
+ {
+  "activities": [],
+  "box": [
+   158,
+   262,
+   1770,
+   34
+  ],
+  "checked": true,
+  "comment": "page-number",
+  "id": 257,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 256,
+  "persons": [],
+  "text_ocr": "CHAMBRE DES DÉPUTES — SEANCE DU 14 JANVIER 1890",
+  "type": "TITLE_LEVEL_1"
+ },
+ {
+  "box": [
+   158,
+   330,
+   1770,
+   2404
+  ],
+  "id": 258,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 256,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_1"
+ },
+ {
+  "box": [
+   158,
+   330,
+   580,
+   2404
+  ],
+  "id": 259,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 258,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_1"
+ },
+ {
+  "box": [
+   158,
+   410,
+   580,
+   900
+  ],
+  "id": 261,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   158,
+   1432,
+   580,
+   930
+  ],
+  "id": 263,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   158,
+   2486,
+   580,
+   248
+  ],
+  "id": 265,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   158,
+   410,
+   580,
+   900
+  ],
+  "id": 266,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 261,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   158,
+   1432,
+   580,
+   930
+  ],
+  "id": 267,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 263,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   158,
+   2486,
+   580,
+   248
+  ],
+  "id": 268,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 265,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   746,
+   330,
+   590,
+   2404
+  ],
+  "id": 269,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 258,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_1"
+ },
+ {
+  "box": [
+   746,
+   330,
+   590,
+   652
+  ],
+  "id": 270,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   746,
+   1108,
+   590,
+   844
+  ],
+  "id": 272,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   746,
+   2068,
+   590,
+   666
+  ],
+  "id": 274,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   748,
+   330,
+   586,
+   652
+  ],
+  "id": 275,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 270,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   748,
+   1108,
+   588,
+   844
+  ],
+  "id": 276,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 272,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   746,
+   2068,
+   590,
+   666
+  ],
+  "id": 277,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 274,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   1344,
+   330,
+   584,
+   2404
+  ],
+  "id": 278,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 258,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_1"
+ },
+ {
+  "box": [
+   1344,
+   330,
+   584,
+   266
+  ],
+  "id": 279,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   1344,
+   704,
+   584,
+   926
+  ],
+  "id": 281,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   1344,
+   1744,
+   584,
+   958
+  ],
+  "id": 283,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   1344,
+   330,
+   584,
+   266
+  ],
+  "id": 284,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   1346,
+   704,
+   582,
+   926
+  ],
+  "id": 285,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 281,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   1348,
+   1744,
+   580,
+   958
+  ],
+  "id": 286,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 283,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   188,
+   412,
+   538,
+   26
+  ],
+  "id": 410,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   440,
+   568,
+   26
+  ],
+  "id": 411,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   158,
+   466,
+   568,
+   26
+  ],
+  "id": 412,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   494,
+   566,
+   26
+  ],
+  "id": 413,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   522,
+   566,
+   26
+  ],
+  "id": 414,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   550,
+   568,
+   24
+  ],
+  "id": 415,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   576,
+   566,
+   26
+  ],
+  "id": 416,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   604,
+   566,
+   26
+  ],
+  "id": 417,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   632,
+   564,
+   26
+  ],
+  "id": 418,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   658,
+   564,
+   26
+  ],
+  "id": 419,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   686,
+   564,
+   26
+  ],
+  "id": 420,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   712,
+   564,
+   26
+  ],
+  "id": 421,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   740,
+   564,
+   26
+  ],
+  "id": 422,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   768,
+   564,
+   24
+  ],
+  "id": 423,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   794,
+   566,
+   28
+  ],
+  "id": 424,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   822,
+   564,
+   26
+  ],
+  "id": 425,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   848,
+   566,
+   28
+  ],
+  "id": 426,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   876,
+   564,
+   26
+  ],
+  "id": 427,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   902,
+   566,
+   28
+  ],
+  "id": 428,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   930,
+   564,
+   26
+  ],
+  "id": 429,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   958,
+   564,
+   26
+  ],
+  "id": 430,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   174,
+   984,
+   552,
+   24
+  ],
+  "id": 431,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1012,
+   564,
+   26
+  ],
+  "id": 432,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1040,
+   564,
+   24
+  ],
+  "id": 433,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1066,
+   564,
+   28
+  ],
+  "id": 434,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1094,
+   566,
+   26
+  ],
+  "id": 435,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1122,
+   562,
+   28
+  ],
+  "id": 436,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1150,
+   568,
+   26
+  ],
+  "id": 437,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1174,
+   566,
+   28
+  ],
+  "id": 438,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1202,
+   564,
+   28
+  ],
+  "id": 439,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1230,
+   566,
+   26
+  ],
+  "id": 440,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1256,
+   568,
+   28
+  ],
+  "id": 441,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1284,
+   432,
+   26
+  ],
+  "id": 442,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 287,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   190,
+   1434,
+   538,
+   28
+  ],
+  "id": 443,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1464,
+   568,
+   26
+  ],
+  "id": 444,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1492,
+   566,
+   24
+  ],
+  "id": 445,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1518,
+   566,
+   26
+  ],
+  "id": 446,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1546,
+   566,
+   26
+  ],
+  "id": 447,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1572,
+   294,
+   22
+  ],
+  "id": 448,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1574,
+   568,
+   50
+  ],
+  "id": 449,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1628,
+   568,
+   26
+  ],
+  "id": 450,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1654,
+   568,
+   28
+  ],
+  "id": 451,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   164,
+   1682,
+   564,
+   26
+  ],
+  "id": 452,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1710,
+   568,
+   24
+  ],
+  "id": 453,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1738,
+   326,
+   22
+  ],
+  "id": 454,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1736,
+   566,
+   54
+  ],
+  "id": 455,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1792,
+   568,
+   26
+  ],
+  "id": 456,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1818,
+   566,
+   28
+  ],
+  "id": 457,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1844,
+   568,
+   26
+  ],
+  "id": 458,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1872,
+   568,
+   28
+  ],
+  "id": 459,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1900,
+   566,
+   26
+  ],
+  "id": 460,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1928,
+   568,
+   24
+  ],
+  "id": 461,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   1954,
+   568,
+   26
+  ],
+  "id": 462,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   1980,
+   566,
+   26
+  ],
+  "id": 463,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2008,
+   566,
+   26
+  ],
+  "id": 464,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2036,
+   568,
+   26
+  ],
+  "id": 465,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2062,
+   568,
+   26
+  ],
+  "id": 466,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   162,
+   2090,
+   566,
+   26
+  ],
+  "id": 467,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2118,
+   568,
+   26
+  ],
+  "id": 468,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2144,
+   568,
+   28
+  ],
+  "id": 469,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2172,
+   568,
+   26
+  ],
+  "id": 470,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2200,
+   568,
+   26
+  ],
+  "id": 471,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   158,
+   2226,
+   570,
+   26
+  ],
+  "id": 472,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2254,
+   568,
+   54
+  ],
+  "id": 473,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2282,
+   436,
+   24
+  ],
+  "id": 474,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2310,
+   566,
+   24
+  ],
+  "id": 475,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2336,
+   566,
+   26
+  ],
+  "id": 476,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 319,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   190,
+   2488,
+   538,
+   26
+  ],
+  "id": 477,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2514,
+   566,
+   28
+  ],
+  "id": 478,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   158,
+   2542,
+   566,
+   26
+  ],
+  "id": 479,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2570,
+   566,
+   24
+  ],
+  "id": 480,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2596,
+   566,
+   28
+  ],
+  "id": 481,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   158,
+   2624,
+   568,
+   26
+  ],
+  "id": 482,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   158,
+   2652,
+   568,
+   30
+  ],
+  "id": 483,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   160,
+   2678,
+   564,
+   28
+  ],
+  "id": 484,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   158,
+   2706,
+   566,
+   28
+  ],
+  "id": 485,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   330,
+   560,
+   26
+  ],
+  "id": 486,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   356,
+   560,
+   28
+  ],
+  "id": 487,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   384,
+   560,
+   24
+  ],
+  "id": 488,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   414,
+   284,
+   26
+  ],
+  "id": 489,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   410,
+   560,
+   56
+  ],
+  "id": 490,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   464,
+   560,
+   28
+  ],
+  "id": 491,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   492,
+   562,
+   28
+  ],
+  "id": 492,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   520,
+   560,
+   26
+  ],
+  "id": 493,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   548,
+   562,
+   26
+  ],
+  "id": 494,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   576,
+   562,
+   26
+  ],
+  "id": 495,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   604,
+   560,
+   26
+  ],
+  "id": 496,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   630,
+   562,
+   24
+  ],
+  "id": 497,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   656,
+   560,
+   26
+  ],
+  "id": 498,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   684,
+   562,
+   28
+  ],
+  "id": 499,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   712,
+   562,
+   26
+  ],
+  "id": 500,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   738,
+   564,
+   28
+  ],
+  "id": 501,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   764,
+   564,
+   26
+  ],
+  "id": 502,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   792,
+   562,
+   26
+  ],
+  "id": 503,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   820,
+   562,
+   28
+  ],
+  "id": 504,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   846,
+   566,
+   26
+  ],
+  "id": 505,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   874,
+   562,
+   24
+  ],
+  "id": 506,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   902,
+   564,
+   26
+  ],
+  "id": 507,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   930,
+   564,
+   26
+  ],
+  "id": 508,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   956,
+   404,
+   26
+  ],
+  "id": 509,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   782,
+   1108,
+   542,
+   28
+  ],
+  "id": 510,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   1136,
+   562,
+   28
+  ],
+  "id": 511,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   1164,
+   566,
+   26
+  ],
+  "id": 512,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   1190,
+   564,
+   28
+  ],
+  "id": 513,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1218,
+   564,
+   26
+  ],
+  "id": 514,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   1244,
+   564,
+   28
+  ],
+  "id": 515,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1272,
+   562,
+   28
+  ],
+  "id": 516,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1298,
+   562,
+   28
+  ],
+  "id": 517,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1326,
+   564,
+   26
+  ],
+  "id": 518,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1354,
+   564,
+   26
+  ],
+  "id": 519,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1380,
+   562,
+   28
+  ],
+  "id": 520,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   764,
+   1408,
+   562,
+   26
+  ],
+  "id": 521,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1436,
+   564,
+   24
+  ],
+  "id": 522,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1462,
+   560,
+   26
+  ],
+  "id": 523,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1490,
+   564,
+   28
+  ],
+  "id": 524,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1518,
+   560,
+   28
+  ],
+  "id": 525,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1544,
+   564,
+   26
+  ],
+  "id": 526,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   1572,
+   564,
+   26
+  ],
+  "id": 527,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   770,
+   1598,
+   556,
+   28
+  ],
+  "id": 528,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1626,
+   564,
+   26
+  ],
+  "id": 529,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1654,
+   564,
+   26
+  ],
+  "id": 530,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1680,
+   560,
+   26
+  ],
+  "id": 531,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   1708,
+   566,
+   22
+  ],
+  "id": 532,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1736,
+   564,
+   26
+  ],
+  "id": 533,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1762,
+   564,
+   28
+  ],
+  "id": 534,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1790,
+   564,
+   26
+  ],
+  "id": 535,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1816,
+   564,
+   28
+  ],
+  "id": 536,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1844,
+   566,
+   28
+  ],
+  "id": 537,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1872,
+   564,
+   28
+  ],
+  "id": 538,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1898,
+   566,
+   28
+  ],
+  "id": 539,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   1926,
+   476,
+   26
+  ],
+  "id": 540,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 383,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   788,
+   2070,
+   542,
+   28
+  ],
+  "id": 541,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2098,
+   570,
+   26
+  ],
+  "id": 542,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2126,
+   566,
+   28
+  ],
+  "id": 543,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2154,
+   566,
+   26
+  ],
+  "id": 544,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2180,
+   566,
+   28
+  ],
+  "id": 545,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2208,
+   568,
+   28
+  ],
+  "id": 546,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2236,
+   566,
+   24
+  ],
+  "id": 547,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2262,
+   566,
+   28
+  ],
+  "id": 548,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2290,
+   566,
+   28
+  ],
+  "id": 549,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2318,
+   566,
+   28
+  ],
+  "id": 550,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2344,
+   566,
+   28
+  ],
+  "id": 551,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2372,
+   564,
+   30
+  ],
+  "id": 552,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2398,
+   568,
+   28
+  ],
+  "id": 553,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2426,
+   566,
+   28
+  ],
+  "id": 554,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2452,
+   566,
+   30
+  ],
+  "id": 555,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   762,
+   2482,
+   566,
+   26
+  ],
+  "id": 556,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2506,
+   566,
+   30
+  ],
+  "id": 557,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2536,
+   566,
+   26
+  ],
+  "id": 558,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   760,
+   2562,
+   566,
+   30
+  ],
+  "id": 559,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   2590,
+   566,
+   30
+  ],
+  "id": 560,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   2618,
+   568,
+   28
+  ],
+  "id": 561,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   2644,
+   568,
+   30
+  ],
+  "id": 562,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   2672,
+   568,
+   30
+  ],
+  "id": 563,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   758,
+   2700,
+   566,
+   30
+  ],
+  "id": 564,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 385,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1354,
+   330,
+   558,
+   16
+  ],
+  "id": 565,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1354,
+   346,
+   566,
+   28
+  ],
+  "id": 566,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   370,
+   566,
+   52
+  ],
+  "id": 567,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   404,
+   266,
+   30
+  ],
+  "id": 568,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   424,
+   564,
+   32
+  ],
+  "id": 569,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   452,
+   564,
+   36
+  ],
+  "id": 570,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   478,
+   564,
+   32
+  ],
+  "id": 571,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   506,
+   566,
+   32
+  ],
+  "id": 572,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1354,
+   532,
+   568,
+   38
+  ],
+  "id": 573,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   572,
+   46,
+   20
+  ],
+  "id": 574,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 386,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1382,
+   704,
+   540,
+   28
+  ],
+  "id": 575,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   728,
+   566,
+   28
+  ],
+  "id": 576,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   758,
+   566,
+   26
+  ],
+  "id": 577,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   782,
+   564,
+   34
+  ],
+  "id": 578,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1356,
+   806,
+   570,
+   32
+  ],
+  "id": 579,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   838,
+   566,
+   28
+  ],
+  "id": 580,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   862,
+   568,
+   32
+  ],
+  "id": 581,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   886,
+   566,
+   36
+  ],
+  "id": 582,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   918,
+   568,
+   28
+  ],
+  "id": 583,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   944,
+   566,
+   34
+  ],
+  "id": 584,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   970,
+   566,
+   34
+  ],
+  "id": 585,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   998,
+   566,
+   30
+  ],
+  "id": 586,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1024,
+   566,
+   32
+  ],
+  "id": 587,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1054,
+   566,
+   28
+  ],
+  "id": 588,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1080,
+   566,
+   34
+  ],
+  "id": 589,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1110,
+   568,
+   30
+  ],
+  "id": 590,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1134,
+   568,
+   34
+  ],
+  "id": 591,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1160,
+   566,
+   30
+  ],
+  "id": 592,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1188,
+   570,
+   34
+  ],
+  "id": 593,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1216,
+   568,
+   30
+  ],
+  "id": 594,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1244,
+   568,
+   30
+  ],
+  "id": 595,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1270,
+   568,
+   32
+  ],
+  "id": 596,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1296,
+   566,
+   34
+  ],
+  "id": 597,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1324,
+   566,
+   34
+  ],
+  "id": 598,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1352,
+   566,
+   30
+  ],
+  "id": 599,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1380,
+   568,
+   32
+  ],
+  "id": 600,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1404,
+   568,
+   32
+  ],
+  "id": 601,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1438,
+   428,
+   28
+  ],
+  "id": 602,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1432,
+   568,
+   58
+  ],
+  "id": 603,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1488,
+   568,
+   32
+  ],
+  "id": 604,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1522,
+   198,
+   26
+  ],
+  "id": 605,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1512,
+   568,
+   60
+  ],
+  "id": 606,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1566,
+   568,
+   36
+  ],
+  "id": 607,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   1604,
+   76,
+   22
+  ],
+  "id": 608,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 388,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   1744,
+   538,
+   28
+  ],
+  "id": 609,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1770,
+   566,
+   32
+  ],
+  "id": 610,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1796,
+   566,
+   32
+  ],
+  "id": 611,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   1824,
+   564,
+   30
+  ],
+  "id": 612,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   1854,
+   564,
+   30
+  ],
+  "id": 613,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1878,
+   566,
+   34
+  ],
+  "id": 614,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   1906,
+   558,
+   34
+  ],
+  "id": 615,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   1932,
+   564,
+   28
+  ],
+  "id": 616,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1364,
+   1962,
+   560,
+   26
+  ],
+  "id": 617,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1364,
+   1988,
+   560,
+   28
+  ],
+  "id": 618,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2018,
+   562,
+   28
+  ],
+  "id": 619,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1364,
+   2040,
+   564,
+   50
+  ],
+  "id": 620,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2072,
+   476,
+   28
+  ],
+  "id": 621,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2096,
+   566,
+   34
+  ],
+  "id": 622,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1364,
+   2122,
+   562,
+   32
+  ],
+  "id": 623,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1372,
+   2150,
+   554,
+   32
+  ],
+  "id": 624,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2180,
+   564,
+   46
+  ],
+  "id": 625,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2210,
+   424,
+   24
+  ],
+  "id": 626,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2230,
+   564,
+   30
+  ],
+  "id": 627,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2260,
+   564,
+   32
+  ],
+  "id": 628,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2286,
+   564,
+   32
+  ],
+  "id": 629,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2318,
+   564,
+   26
+  ],
+  "id": 630,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2348,
+   320,
+   24
+  ],
+  "id": 631,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2344,
+   566,
+   54
+  ],
+  "id": 632,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2396,
+   564,
+   32
+  ],
+  "id": 633,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2430,
+   166,
+   20
+  ],
+  "id": 634,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1362,
+   2456,
+   420,
+   26
+  ],
+  "id": 635,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2484,
+   274,
+   20
+  ],
+  "id": 636,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2426,
+   566,
+   110
+  ],
+  "id": 637,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2530,
+   564,
+   32
+  ],
+  "id": 638,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   2558,
+   566,
+   34
+  ],
+  "id": 639,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2588,
+   562,
+   28
+  ],
+  "id": 640,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1360,
+   2612,
+   564,
+   60
+  ],
+  "id": 641,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   2648,
+   312,
+   26
+  ],
+  "id": 642,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1358,
+   2676,
+   322,
+   26
+  ],
+  "id": 643,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 395,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "activities": [],
+  "box": [
+   158.0,
+   366.0,
+   580.0,
+   22.0
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 260,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "persons": [],
+  "text_ocr": "3e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   0,
+   377
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "Bezan",
+    "street_numbers": []
+   }
+  ],
+  "box": [
+   148.81172861013044,
+   404.9702913721486,
+   577.1431468921776,
+   903.1022477801267
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 287,
+  "ner_xml": "<PER>MM. Armez</PER><ACT>, Côtes-du-Nord</ACT>. — <LOC>Bezan</LOC>son,<PER> Haute-Saône</PER>, — <LOC>Bisch</LOC>offsheim, <LOC>Alpes</LOC>-<LOC>Ma</LOC>-<PER> ritime</PER>s.<PER> Boudeville</PER>, Oise. — <LOC>Boulanger</LOC>-<PER> Bernet</PER><ACT>, Pas-de-Calais</ACT>. — <LOC>Bourgeois (Léon</LOC><PER> Marne</PER>. — <PER>Brugno</PER>t, <LOC>Vosges</LOC>. — <LOC>Bull</LOC>y, <LOC>Eure</LOC>.<PER> Cibiel, Aveyron</PER>. — <ACT>Constan</ACT>s<LOC>, Haute-Ga-</LOC><PER> ronnle</PER>. —<PER> Deloncle (Francois</PER><LOC> Basses-A</LOC><PER> pes</PER>. — <PER>Denizot,</PER><ACT> Vienne</ACT>. —<LOC> Duchasse</LOC>int.<PER> Puy-de-Dome</PER>. —<PER> Dumay</PER>, <LOC>Seine</LOC>. — <LOC>Duval</LOC><PER> César Haute-Savoie</PER>.<LOC> Eschasser</LOC>iaux<PER> baron Charente-Inférieure</PER><LOC>. Euzière</LOC>,<PER> Hautes-Alpes</PER>. — <LOC>Ferry</LOC><PER> Albert)</PER> „<LOC>Vosges</LOC>.<PER> Gaillard (Jules</PER><ACT> Vaucluse</ACT>. —<LOC> Hovelacque</LOC><PER> Seine</PER>. — <PER>Isam</PER>bert<PER> Gustave</PER> „<LOC>Eure-et-Loir</LOC>.<PER> Jumel, Landes</PER>. — <PER>Kergorlay (comte de Haute-Loire</PER>. —<PER> Lalou</PER>, <ACT>Nord</ACT>. — <LOC>Le Cour</LOC>.<PER> Loire-Inférieure</PER>. — <PER>Ledieu</PER>, <LOC>Pas-de-Calais</LOC>.<PER> Le Hérissé</PER>, <LOC>Ille-</LOC><ACT>et-V</ACT><LOC>illaine</LOC>. — <LOC>Le Myre</LOC> de<PER> Vilers</PER><ACT>, Cochinchine</ACT>. —<LOC> Lete</LOC>llier, Alger.<PER> Lévis-Mirepoix (comte de),</PER> <LOC>Orne</LOC>. — <LOC>Marti</LOC>-<PER> neau, FeIIX Seine</PER>. — <PER>Martin</PER>on, <ACT>Cre</ACT>use. — <LOC>Math</LOC>é — Mercier. <LOC>Haute</LOC>-saone. AIller.<PER> Mézières</PER><ACT>, Meurthe-et-Moselle</ACT>. —<LOC> Millevoye</LOC><PER> Lucien Somme</PER>. —<LOC> Ou</LOC>vré, <LOC>Seine-et-Marne</LOC>.<PER> Passy (Louis),</PER> <ACT>Eure</ACT>. — <PER>Plazanet</PER> <ACT>(colonel de),</ACT> <LOC>Mayenne</LOC>. —<PER> Renard</PER> <ACT>(Léon</ACT><LOC>), Nord</LOC>.<PER> Hey (Aristide),</PER> <ACT>Isere</ACT>. — <LOC>Riotteau</LOC>, <CARDINAL>Manche</CARDINAL>.<PER> Royer (Louis-Auguste),</PER> <LOC>Aube</LOC>. — <LOC>Roz</LOC>et<PER> Albin), Haute-Marne</PER>.<PER> Solages</PER> <ACT>(marquis</ACT><PER> de),</PER> <ACT>Tarn</ACT>. —<PER> Soubeyran (baron de),</PER> <LOC>Vienne</LOC>.<PER> Surchamp,</PER> <ACT>Gironde</ACT>. —<LOC> Thivrier</LOC>, <LOC>Allier</LOC>.<PER> Villemonte,</PER> <ACT>Dordogne</ACT>. — <PER>Vi</PER>ox<LOC>, Meurthe-</LOC><PER> et-Moselle</PER>. — <LOC>Yves Guy</LOC>ot, <LOC>Seine</LOC>.",
+  "origin": "human",
+  "parent": 266,
+  "persons": [
+   "MM. Armez"
+  ],
+  "text_ocr": "MM. Armez, Côtes-du-Nord. — Bezanson,\nHaute-Saône, — Bischoffsheim, Alpes-Ma-\nritimes. — Boudeville, Oise. — Boulanger-\nBernet, Pas-de-Calais. — Bourgeois (Léon),\nMarne. — Brugnot, Vosges. — Bully, Eure.\nCibiel, Aveyron. — Constans, Haute-Ga-\nronne. — Deloncle (Francois), Basses-Al-\npes. — Denizot, Vienne. — Duchasseint,\nPuy-de-Dome. — Dumay, Seine. — Duval\n(César), Haute-Savoie. — Eschasseriaux\n(baron), Charente-Inférieure.  — Euzière,\nHautes-Alpes. — Ferry (Albert), Vosges.\nGaillard (Jules), Vaucluse. — Hovelacque,\nSeine. — Isambert (Gustave), Eure-et-Loir.\n — Jumel, Landes. — Kergorlay (comte de),\nHaute-Loire. — Lalou, Nord. — Le Cour.\nLoire-Inférieure. — Ledieu, Pas-de-Calais.\nLe Hérissé, Ille-et-Villaine. — Le Myre de\nVilers, Cochinchine. — Letellier, Alger. —\nLévis-Mirepoix (comte de), Orne. — Marti-\nneau, Seine. — Martinon, Creuse. — Mathé\n(FéIix), AIlier. — Mercier. Haute-Saône. —\nMézières, Meurthe-et-Moselle. — Millevoye\n(Lucien), Somme. — Ouvré, Seine-et-Marne.\n— Passy (Louis), Eure. — Plazanet (colonel\nde), Mayenne. — Renard (Léon), Nord. —\nRey (Aristide), Isère. — Riotteau, Manche.\n— Royer (Louis-Auguste), Aube. — Rozet\n(Albin), Haute-Marne. — Solages (marquis\nde), Tarn. — Soubeyran (baron de), Vienne.\n— Surchamp, Gironde. — Thivrier, Allier.\n— Villemonte, Dordogne. — Viox, Meurthe-\net-Moselle. — Yves Guyot, Seine.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   855
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   151.62851225752252,
+   1392.0,
+   580,
+   22
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 262,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "persons": [],
+  "text_ocr": "4e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   0,
+   1403
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "Biz",
+    "street_numbers": []
+   }
+  ],
+  "box": [
+   158,
+   1434,
+   570,
+   928
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 319,
+  "ner_xml": "<PER>MM. Bar (de)</PER><ACT> Puy-de-Dôme</ACT>.<LOC> Biz</LOC>ot,<PER> Ain</PER>. — <PER>Blanc (Pierre)</PER> ,Savoie. —<LOC> Boisbois</LOC>-<PER> sel(</PER><ACT> (de), Côtes-du-Nord</ACT>. — <LOC>Bonnefoy-Sibour</LOC>,<PER> Gard</PER>. — <PER>Bony-Cisternes</PER>, <LOC>Puy-de-Dôme</LOC>.<PER> Boyer (Antide),</PER> <LOC>Bouches-</LOC><ACT>du-</ACT><LOC>Rhône</LOC>.—<LOC>Braud</LOC>, e-<PER> Charente-Inférieure</PER>. — <PER>Caffareii (comte),</PER> Aisne. — <PER>Calvinh</PER><ACT>ac</ACT>, Haute-Garonne. — Ca-<PER> zenove de Pradine</PER> <ACT>(de),</ACT> <LOC>Loire-lniérieure</LOC>.<PER> Clausel de Coussergues</PER>, <LOC>Aveyron</LOC>. — <LOC>Clech</LOC>,<PER> Finistère</PER>. — <PER>Delaunay</PER>, Oise. — <LOC>Delles</LOC>table,<PER> Correze</PER>. — <PER>Dubois Arnauld Correze</PER>.<PER> DucroZ</PER><LOC>, Haute-Savole</LOC>.<PER> Ducroz</PER><ACT>, Haute-Savoie</ACT>.<LOC> Hautes</LOC> -<LOC>Pyrénées</LOC>. — — <PER>Fould (Achille Fouquet (Camille Eure</PER>. — <PER>Galpin (Gaston),</PER> <ACT>Sarthe</ACT>. — <LOC>Gau</LOC>s-<PER> sorgues (Frédéric),</PER> <ACT>Gard</ACT>. — <LOC>Gerbay</LOC>, <LOC>Loire</LOC>.<PER> Gillot</PER><ACT>, Saône-et-Loire</ACT>. — <LOC>Graux (Geor</LOC>-<PER> ges),</PER> <ACT>Pas-de-Calais</ACT>. — <PER>Greffulhe (comte Seine-et-Marne</PER>. — <LOC>Jourde</LOC>, <LOC>Gironde</LOC>. — <LOC>La</LOC><PER> Martinière de Manche</PER>.<LOC> La Rochefou</LOC>-<PER> cauld</PER><ACT>, duc de Doudeauville</ACT>, <CARDINAL>Sarthe</CARDINAL>. — <LOC>Le</LOC><PER> Cerf</PER><ACT>, Côtes-du-Nord</ACT>.<PER> Le Roux (Pau Vendée</PER>. — <PER>Le Roy (Edouard</PER><LOC>), la Réunion</LOC>.<PER> Levet (Georges),</PER> <ACT>Loire</ACT>. —<LOC> Ley</LOC>det<LOC>, Bou</LOC>-<ACT> ches-du-Rhône</ACT>. — <LOC>Lombard</LOC>, Isère. — <LOC>Lur</LOC>-<PER> Saluces (marquis de),</PER> <ACT>Gironde</ACT>. — <LOC>Morillot</LOC><PER> (Léon),</PER> <ACT>Marne</ACT>. — <LOC>Philipon</LOC>, <LOC>Ain</LOC>. — <LOC>Porteu</LOC><PER> Armand</PER><ACT>), Hle-et-Vilaine</ACT>. —<LOC> Rab</LOC>ier (<ACT>F</ACT>er-<PER> nand Loiret</PER>. — <PER>Reille (baron</PER><LOC>), Tarn</LOC>.<PER> Révillon</PER> <ACT>(Tony) Seine</ACT>. — <LOC>Rey Lot</LOC>). — <LOC>Ro</LOC>-<PER> che (Ernest),</PER> <ACT>Seine</ACT>. —<LOC> Royer</LOC>, <LOC>Meuse</LOC>.<PER> Saint-Romme, Isère. Serph (Gusman</PER> — <LOC>Sente</LOC>nac, Ariège. — <LOC>Si</LOC>bille,<LOC> Vienne</LOC>.<PER> Serph (Gusman</PER><LOC> Vienne</LOC>.<PER> Loire-Inférieure</PER>. — S<PER>ign</PER>ard, <LOC>Haute-Saône</LOC>.<PER> Turrel (Adolphe Aude.</PER> — <LOC>Viette</LOC>, <LOC>Doubs</LOC>.",
+  "origin": "human",
+  "parent": 267,
+  "persons": [
+   "MM. Bar (de)"
+  ],
+  "text_ocr": "MM. Bar (de), Puy-de-Dôme. — Bizot,\nAin. — Blanc (Pierre), Savoie. — Boisbois-\nsel (de), Côtes-du-Nord. — Bonnefoy-Sibour,\nGard. — Bony-Cisternes, Puy-de-Dôme. —\nBoyer (Antide), Bouches-du-Rhône.—Braud,\nCharente-Inférieure. — Caffarelli (comte),\nAisne. — Calvinhac, Haute-Garonne. — Ca-\nzenove de Pradine (de), Loire-lniérieure. —\nClausel de Coussergues, Aveyron. — Clech,\nFinistère. — Delaunay, Oise. — Dellestable,\nCorrèze. — Dubois (Arnauld), Corrèze. —\nDucroz, Haute-Savoie. — Fould (Achille),\nHautes-Pyrénées. — Fouquet (Camille),\nEure. — Galpin (Gaston), Sarthe. — Gaus-\nsorgues (Frédéric), Gard. — Gerbay, Loire.\n— Gillot, Saône-et-Loire. — Graux (Geor-\nges), Pas-de-Calais. — Greffulhe (comte),\nSeine-et-Marne. — Jourde, Gironde. — La\nMartinière (de), Manche. — La Rochefou-\ncauld, duc de Doudeauville, Sarthe. — Le\nCerf, Côtes-du-Nord. Le Roux (Paul),\nVendée. — Le Roy (Edouard), la Réunion.\n— Levet (Georges), Loire. — Leydet, Bou-\nches-du-Rhône. — Lombard, Isère. — Lur-\nSaluces (marquis de), Gironde. — Morillot\n(Léon), Marne. — Philipon, Ain. — Porteu\n(Armand), Ille-et-Vilaine. — Rabier (Fer-\nnand), Loiret. — Reille (baron), Tarn.\nRévillon (Tony), Seine. — Rey (Lot). — Ro-\nche (Ernest), Seine. — Royer, Meuse. —\nSaint-Romme, Isère. — Sentenac, Ariège.\n— Serph (Gusman), Vienne. — Sibille,\nLoire-Inférieure. — Signard, Haute-Saône.\n— Turrel (Adolphe), Aude. — Viette, Doubs.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   1898
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   158,
+   2438,
+   580,
+   24
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 264,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "persons": [],
+  "text_ocr": "5e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   0,
+   2450
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "Baudry",
+    "street_numbers": []
+   }
+  ],
+  "box": [
+   158,
+   2488,
+   570,
+   246
+  ],
+  "checked": true,
+  "comment": "seg-beginning",
+  "id": 353,
+  "ner_xml": "<PER>MM. Aigle (comte de 1),</PER> Oise. — <LOC>Baudry</LOC><PER> d'Asson (de</PER><ACT>), Vendée</ACT>. — <PER>Bernis (comte de Gard</PER>.—<PER>Bertrand</PER>, <ACT>Marne</ACT>.— <LOC>Bizarelli</LOC>, <LOC>Drôme</LOC>.<PER> Bizouard-Bert.</PER><ACT> Côte-d Or</ACT>. —<LOC> Blachère</LOC>,<PER> Ardèche</PER>. — <PER>Boullay</PER>, Saône-<ACT>et</ACT>-Loire. — <LOC>Ca</LOC>-<PER> bart-Danneville</PER>, Manche. —<LOC> Champvallier</LOC><ACT> (de), Charente</ACT>. — <LOC>Chiché</LOC>, <LOC>Gironde</LOC>. — <LOC>Dau</LOC>-<PER> tresme</PER><ACT>, Seine-Inférieure</ACT>. — <PER>Day</PER>naud, <LOC>Ger</LOC>s.<PER> Delcassé,</PER> <ACT>Ariège</ACT>. — <LOC>Descamps (Albert</LOC>",
+  "origin": "human",
+  "parent": 268,
+  "persons": [
+   "MM. Aigle (comte de 1),"
+  ],
+  "text_ocr": "MM. Aigle (comte de l'), Oise. — Baudry\nd'Asson (de), Vendée. — Bernis (comte de),\nGard.—Bertrand, Marne.— Bizarelli, Drôme.\n— Bizouard-Bert, Côte-d Or. — Blachère,\nArdèche. — Boullay, Saône-et-Loire. — Ca-\nbart-Danneville, Manche. — Champvallier\n(de), Charente. — Chiché, Gironde. — Dau-\ntresme, Seine-Inférieure. — Daynaud, Gers.\nDelcassé, Ariège. — Descamps (Albert),",
+  "type": "ENTRY",
+  "key": [
+   0,
+   2611
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   758,
+   330,
+   566,
+   652
+  ],
+  "checked": true,
+  "comment": "seg-end",
+  "id": 362,
+  "ner_xml": "<PER>Gers</PER>. — <PER>Dumas</PER><ACT>, Allier</ACT>. — <PER>Folli</PER><ACT>et, Haute- Savoie</ACT>. — <PER>Froin</PER> <ACT>(</ACT><PER>Alcée</PER><ACT>), Gironde</ACT>. — <PER>Ger</PER><ACT>- main (Constant), Haute-Garonne</ACT>. — Ger- —<PER> Guyot-Dessaigne, main Henri),</PER> Ain. — <PER>Guyot-Dessaigne, main (Henri</PER>), Ain.<LOC> Puy</LOC>-<ACT>de</ACT>-<ACT>D</ACT>ôme.— Haussmann, <LOC>Seine</LOC>-et<LOC>-0</LOC>ise.<PER> Hémon</PER><ACT>, Finistère</ACT>. — <PER>Jamais (Emile</PER><LOC>), Gard</LOC>.<PER> Jourdan (Louis)</PER> <ACT>Lozère</ACT>.— <LOC>Kergar</LOC>iou <ACT>(de</ACT><PER> Côtes-du-Nord</PER>.<PER> Kerjégu</PER><LOC> J. de</LOC> „<LOC>Finister</LOC>e.<PER> Lacroix</PER><ACT>, Loiret</ACT>. — La <LOC>Ferron</LOC>nays <ACT>(marquls</ACT> IU<PER> Loire-Inférieure</PER>. — <LOC>Lafite de Lajo</LOC>an-<PER> nenque</PER><ACT> (de), Lot-et-Garonne</ACT>. — <LOC>Laguerre</LOC>,<PER> Selne</PER>.<PER> La</PER><ACT>isant</ACT>. <LOC>Seine</LOC>.<PER> Legra</PER>s<LOC>, Seie</LOC>-<PER> Herieure</PER>.—<ACT> Le Provost de Launay</ACT>, <LOC>Côtes-</LOC><PER> du-Nord</PER>. — — <PER>Leroy (Arthur</PER>), <LOC>Côte-d Or</LOC>. —<LOC> Le</LOC><PER> Senne</PER>, <LOC>Seine</LOC>. — Le<PER>y</PER>gues, <LOC>Lot-et-Garonne</LOC>.<PER> Lorgeril</PER><ACT> (de Ille-et-Vilaine</ACT>. —<LOC> Magnien</LOC>,<PER> Saône-et-Loire</PER>. — <LOC>Meilhodon</LOC>, <CARDINAL>Dordogne</CARDINAL>.<PER> Michou</PER>, <LOC>Aube</LOC>. —<LOC>Miloch</LOC>au, <LOC>Eure-et-LOir</LOC>.<PER> Montgolfier</PER> <ACT>(de), Ardeche</ACT>. — <LOC>Noël</LOC>-<LOC>Par</LOC>falt<PER> Eure-et-Loir</PER>.<PER> Pierre Legrand</PER>, <LOC>Nord</LOC>.<PER> révet Seine-et-Marne</PER>.<LOC> Prost Victor</LOC><PER> Côte-d'Or</PER>. — <PER>Réaux (Marie-Emile),</PER> <LOC>La Gua</LOC>-<PER> deloupe</PER>. — Roques, Aveyron. — <LOC>Rousse</LOC>,<PER> Var</PER>. — <PER>Terrail-Mermeix</PER>, <LOC>Seine</LOC>.",
+  "origin": "human",
+  "parent": 275,
+  "persons": [
+   "Gers",
+   "Dumas",
+   "Folli",
+   "Froin",
+   "Alcée",
+   "Ger",
+   "Guyot-Dessaigne,\nmain\nHenri),"
+  ],
+  "text_ocr": "Gers. — Dumas, Allier. — Folliet, Haute-\nSavoie. — Froin (Alcée), Gironde. — Ger-\nmain (Constant), Haute-Garonne. — Ger-\nmain (Henri), Ain. — Guyot-Dessaigne,\nPuy-de-Dôme.— Haussmann, Seine-et-0ise.\nHémon, Finistère. — Jamais (Emile), Gard.\nJourdan (Louis) Lozère.— Kergariou (de),\nCôtes-du-Nord. — Kerjégu (J. de), Finistère.\nLacroix, Loiret. — La Ferronnays (marquls\nde), Loire-Inférieure. — Laffite de Lajoan-\nnenque (de), Lot-et-Garonne. — Laguerre,\nSelne. — Laisant. Seine. — Legras, Seine-\nInférieure. — Le Provost de Launay, Côtes-\ndu-Nord. — Leroy (Arthur), Côte-d Or. — Le\nSenne, Seine. — Leygues, Lot-et-Garonne.\nLorgeril (de), Ille-et-Vilaine. — Magnien,\nSaône-et-Loire. — Meilhodon, Dordogne. —\nMichou, Aube. — Milochau, Eure-et-Loir. —\nMontgolfier (de), Ardèche. — Noël-Parfalt\nEure-et-Loir. — Pierre Legrand, Nord. —\nPrévet, Seine-et-Marne. — Prost (Victor),\nCôte-d'Or. — Réaux (Marie-Emile), La Gua-\ndeloupe. — Roques, Aveyron. — Rousse,\nVar. — Terrail-Mermeix, Seine.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   656
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   746.0,
+   1056.0,
+   590,
+   24
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 271,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "persons": [],
+  "text_ocr": "6e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   1,
+   1068
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   760,
+   1108,
+   568,
+   844
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 383,
+  "ner_xml": "<PER>MM. Amagat, Cantal</PER>.—<PER>Arenberg</PER> <ACT>(</ACT><PER>prince</PER> <ACT>d</ACT><PER>'), Cher</PER>. — <ACT>Baile (Martial), Hautes-Pyrénées.</ACT> — <ACT>Ber- — Balsan, Indre. — Baudin, Cher. — ger, Maine-et-Loire.</ACT> — <ACT>Bergerot, Nord. Borie, Corrèze.</ACT> — <ACT>Briens, Manche.</ACT> — <ACT>Car- quet, Savoie.</ACT> — <ACT>Cluseret, Var</ACT>. — <ACT>Cousset, Creuse</ACT>. — <ACT>Delafosse (Marie), Ille-et-Vilaine</ACT>.<PER> Deniau</PER><ACT>, Loir-et-Cher</ACT>. — <PER>Després (Armand),</PER> — <PER>Dubost (Anto-</PER> — <PER>Deville, Aisne</PER><ACT>.</ACT><PER> Seine</PER><ACT>.</ACT><PER> nin), Isère</PER>. — <ACT>Engerand, Calvados.</ACT> — <ACT>Fa-</ACT><PER> nien</PER> <ACT>(Achille), Pas-de-Calais</ACT>. — <PER>Fauré</PER><ACT>,</ACT> <PER>Gers.</PER> — — <PER>Gasté</PER> <ACT>(de), Finistère.</ACT><PER> Ferroul</PER><ACT>,</ACT> <PER>Aude.</PER> — <PER>Goni- Gervais (Jules),</PER> <ACT>Seine-Inférieure. dec de Traissan (comte Le), ille-et-Vilaine. Guilloutet (de), Landes. — Haulon, Basses- Pyrénées. — Hély d'Oissel, Seine-et-Oise. Labrousse, Corrèze. — Labussière, Al- lier. — Lachièze, Lot.</ACT> — <ACT>La Rochejaquele</ACT>in<PER> (marquis de), Deux-Sèvres</PER>. — <PER>Lavertujon</PER> — <PER>Mackau (baron (Henri), Haute-Vienne</PER><ACT>. de), Orne.</ACT> — <ACT>Méline, Vosges.</ACT> — <ACT>Michau, Nord.</ACT> — <ACT>Montaut, Seine-et-Marne.</ACT> —<ACT>Pajot, — Cher.</ACT> — <ACT>Périer de Larsan (du), Gironde. Peyrusse, Gers.</ACT> — <ACT>Picot, Vosges</ACT>. — Pierre — <ACT>Possesse (de), Alype, Inde française. Loir-et-Cher</ACT>. — <PER>Prénat</PER><ACT>, Rhône</ACT>. — <PER>Rauline</PER><ACT>, Manche</ACT>. — <PER>Reinach (Joseph</PER><ACT>), Basses-Alpes. Saint-Martin (de), Indre</ACT>. — <ACT>Saint</ACT><PER>-Martin</PER><ACT> (Seine</ACT>). — <PER>Tassin</PER><ACT>, Loir-et-Cher</ACT>. — <PER>Théve- Villeneuve</PER> <ACT>(</ACT><PER>mar</PER><ACT>qui</ACT><PER>s</PER> <ACT>de</ACT><PER>),</PER><ACT> net, Rhône</ACT>. —<PER> COrse</PER>. — <PER>Witt (Conrad de),</PER> <ACT>Calva</ACT>dos.",
+  "origin": "human",
+  "parent": 276,
+  "persons": [
+   "MM. Amagat, Cantal",
+   "Arenberg",
+   "prince",
+   "'),\nCher",
+   "Deniau",
+   "Després (Armand),",
+   "Dubost (Anto-",
+   "Deville, Aisne",
+   "Seine",
+   "nin), Isère",
+   "nien",
+   "Fauré",
+   "Gers.",
+   "Gasté",
+   "Ferroul",
+   "Aude.",
+   "Goni-\nGervais (Jules),"
+  ],
+  "text_ocr": "MM. Amagat, Cantal.—Arenberg (prince d'),\nCher. — Baile (Martial), Hautes-Pyrénées.\n— Balsan, Indre. — Baudin, Cher. — Ber-\nger, Maine-et-Loire. — Bergerot, Nord. — \nBorie, Corrèze. — Briens, Manche. — Car-\nquet, Savoie. — Cluseret, Var. — Cousset,\nCreuse. — Delafosse (Marie), Ille-et-Vilaine.\nDeniau, Loir-et-Cher. — Després (Armand),\nSeine. — Deville, Aisne. — Dubost (Anto-\nnin), Isère. — Engerand, Calvados. — Fa-\nnien (Achille), Pas-de-Calais. — Fauré, Gers.\nFerroul, Aude. — Gasté (de), Finistère. —\nGervais (Jules), Seine-Inférieure. — Goni-\ndec de Traissan (comte Le), Ille-et-Vilaine.\nGuilloutet (de), Landes. — Haulon, Basses-\nPyrénées. — Hély d'Oissel, Seine-et-Oise.\n— Labrousse, Corrèze. — Labussière, Al-\nlier. — Lachièze, Lot. — La Rochejaquelein\n(marquis de), Deux-Sèvres. — Lavertujon\n(Henri), Haute-Vienne. — Mackau (baron\nde), Orne. — Méline, Vosges. — Michau,\nNord. — Montaut, Seine-et-Marne. —Pajot,\nCher. — Périer de Larsan (du), Gironde. —\nPeyrusse, Gers. — Picot, Vosges. — Pierre\nAlype, Inde française. — Possesse (de),\nLoir-et-Cher. — Prénat, Rhône. — Rauline,\nManche. — Reinach (Joseph), Basses-Alpes.\n— Saint-Martin (de), Indre. — Saint-Martin\n(Seine). — Tassin, Loir-et-Cher. — Théve-\nnet, Rhône. — Villeneuve (marquis de),\nCorse. — Witt (Conrad de), Calvados.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1530
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   746,
+   2026,
+   590,
+   22
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 273,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "persons": [],
+  "text_ocr": "7e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   1,
+   2037
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   758,
+   2070,
+   572,
+   660
+  ],
+  "checked": true,
+  "comment": "seg-beginning",
+  "id": 385,
+  "ner_xml": "<PER>MM. Adam (Achille),</PER> <ACT>Pas-de-Calais. Aillières (d'), Sarthe. — Audiffred, Loire. Beauquier, Doubs. — Buvignier, Meuse. Chaulin-Servinière, Mayenne.— Clerjounie, — Cordier, Meurthe-et-Moselle. Dordogne</ACT>. — <ACT>Delahaye, Indre-et-Loire.</ACT> —<ACT> Descaure, Somme</ACT>. — <ACT>Douville-Maillefeu (comte de) Somme.</ACT> — <ACT>Etcheverry, Basses-Pyrénées. Far</ACT><PER>jon</PER><ACT>, Puy-de-Dôme</ACT>. — <PER>Féraud</PER><ACT>, Hautes- Pyrénées</ACT>. — <PER>Ferry (Emile</PER><ACT>), Seine</ACT>. — <ACT>Fre</ACT><PER>p</PER><ACT>- pel, Finistère.</ACT> — <ACT>Gacon, Allier</ACT>. — <ACT>Gauthier (de Clagny), Seine-et-Oise.</ACT>— <ACT>Gavini, Corse. Giguet, Ain.</ACT> <PER>—</PER> <ACT>Jac</ACT><PER>que</PER><ACT>min, Côtes-du- — Jules</ACT><PER> —</PER> <ACT>Jonnart, Pas-de-Calais. Nord. Jaluzot, Nièvre. — La Bassetière (Louis de), Vendée. — La Batut (de), Dordogne.</ACT> — <ACT>Lamarzelle (de), Laffon (René), Yonne. Morbihan.</ACT> — <ACT>Léon (prince de), Morbihan.</ACT>— — <ACT>Maillé (comte Mahy (de), La Réunion. de), Maine-et-Loire. — Marmottan, Seine.</ACT> — <ACT>Maruéjouls, Aveyron. — Montalembert (comte de), Nord. — Olry, Eure. — Ordi- naire (Dyonis), Doubs.</ACT> — <ACT>Pontois, Deux- — Prax-Paris,</ACT> —<ACT> Poulié, Tarn. Sevres</ACT>.",
+  "origin": "computer",
+  "parent": 277,
+  "persons": [
+   "MM. Adam (Achille),",
+   "jon",
+   "Féraud",
+   "Ferry (Emile",
+   "p",
+   "—",
+   "que",
+   "—"
+  ],
+  "text_ocr": "MM. Adam (Achille), Pas-de-Calais. —\nAillières (d'), Sarthe. — Audiffred, Loire. —\nBeauquier, Doubs. — Buvignier, Meuse. —\nChaulin-Servinière, Mayenne.— Clerjounie,\nDordogne. — Cordier, Meurthe-et-Moselle.\n— Delahaye, Indre-et-Loire. Descaure,\nSomme. — Douville-Maillefeu (comte de)\nSomme. — Etcheverry, Basses-Pyrénées. —\nFarjon, Puy-de-Dôme. — Féraud, Hautes-\nPyrénées. — Ferry (Emile), Seine. — Frep-\npel, Finistère. — Gacon, Allier. — Gauthier\n(de Clagny), Seine-et-Oise.— Gavini, Corse.\n— Giguet, Ain. — Jacquemin, Côtes-du-\nNord. — Jonnart, Pas-de-Calais. — Jules\nJaluzot, Nièvre. — La Bassetière (Louis de),\nVendée. — La Batut (de), Dordogne. —\nLaffon (René), Yonne. — Lamarzelle (de),\nMorbihan. — Léon (prince de), Morbihan.—\nMahy (de), La Réunion. — Maillé (comte\nde), Maine-et-Loire. — Marmottan, Seine.\n— Maruéjouls, Aveyron. — Montalembert\n(comte de), Nord. — Olry, Eure. — Ordi-\nnaire (Dyonis), Doubs. — Pontois, Deux-\nSèvres. — Poulié, Tarn. — Prax-Paris,\n\n",
+  "type": "ENTRY",
+  "key": [
+   1,
+   2400
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "Seine-Infé",
+    "street_numbers": []
+   },
+   {
+    "street_name": "Raynal",
+    "street_numbers": [
+     "Gironde"
+    ]
+   }
+  ],
+  "box": [
+   1350.8482863497056,
+   318.96900222396937,
+   571.1517136502944,
+   273.03099777603063
+  ],
+  "checked": true,
+  "comment": "seg-end",
+  "id": 386,
+  "ner_xml": "<PER>Tarn-ct-uaronne.</PER>rro —,<ACT> Sèvres</ACT>. — <PER>Quinta</PER>a<ACT>, Basses-Pyrénées</ACT>. — <ACT>Ramel (de), Gard</ACT>. Rambourgt, Aube.<PER> Ri</PER>card, <LOC>Seine-Infé</LOC>-<LOC> Raynal</LOC>, <CARDINAL>Gironde</CARDINAL>. —<PER> rieure</PER>. — <PER>Rotours (baron des), Nord. Roy de Loulay (Louis</PER><ACT>), Charente-Inférieure</ACT>. — <ACT>Sabouraud, Vendée</ACT>. — <ACT>Terrier, Eure-et- Loir</ACT>. — <PER>Ter</PER>ves <ACT>(comte de), Maine-et-Loire</ACT>. — <PER>V</PER>ival,<ACT> V</ACT><PER>ignan</PER>cour, <LOC>Basse</LOC>s-Pyrénées.",
+  "origin": "human",
+  "parent": 284,
+  "persons": [
+   "Tarn-ct-uaronne.",
+   "Quinta",
+   "Ri"
+  ],
+  "text_ocr": "Tarn-et-Garonne. — Proust (Antonin). Deux\nSèvres. — Quintaa, Basses-Pyrénées. —\nRambourgt, Aube. — Ramel (de), Gard. —\nRaynal, Gironde. — Ricard, Seine-Infé-\nrieure. — Rotours (baron des), Nord. —\nRoy de Loulay (Louis), Charente-Inférieure.\n— Sabouraud, Vendée. — Terrier, Eure-et-\nLoir. — Terves (comte de), Maine-et-Loire.\n— Vignancour, Basses-Pyrénées. — Vival,\nLot.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   454
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   1344.0,
+   661.5944524312896,
+   584,
+   22
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 280,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "persons": [],
+  "text_ocr": "8e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   2,
+   672
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1350.5033703119063,
+   697.8127454041803,
+   586.3461847788233,
+   941.4095441125257
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 388,
+  "ner_xml": "<PER>MM. Barascud, Aveyron.</PER> — <PER>BarDoumy</PER> — <PER>Barrès (</PER><ACT>Maurice), Meur- Ille-et-Vilaine</ACT>. — <ACT>Benoit (de), Aveyron. the-et-Moselle. Bigot, Mayenne. — Boissy-d'Anglas, Drôme.</ACT> — <ACT>Bourgeois (Paul), — Boudeau, Seine. Vendée</ACT>. — <ACT>Bouthier de Rochefort, Saône- et-Loire</ACT>. — <ACT>Cazauvieilh, Gironde</ACT>. — <ACT>Cha</ACT>- — <ACT>Colombet (de), brié, Tarn-et-Garonne</ACT>. — <PER>Cosmao-Dumenez</PER><ACT>, Finistère. Lozère.</ACT><PER> Déprez (André),</PER> <ACT>Pas-de-Calais</ACT>. — <PER>Deschanel (Paul),</PER> <ACT>Eure-et-Loir</ACT>. — <PER>Dreyfus (Camille</PER><ACT>), Seine</ACT>. — <PER>Dufaure</PER> <ACT>(</ACT><PER>Amédée</PER><ACT>), Seine-et-Oise</ACT>- — <PER>Dumonteil</PER><ACT>, </ACT><PER>Aisne</PER>. — <PER>Floquet (Charles), — Gran- — Gérard (baron),</PER> <ACT>Calvados. Seine</ACT>. — <ACT>Guéguen, Finistère. — Hor- ger, Seine.  — Jacquemart, Ardennes. teur, Savoie. Joffrin, Seine.</ACT> — <PER>Ker</PER><ACT>men</ACT><PER>guy</PER> <ACT>(vicom</ACT><PER>te</PER> <ACT>de), — La- Finistère. — Labat, Basses-Pyrénées. côte, Creuse. — Lacretelle (général), Maine- et-Loire. — Lacretelle (Henri de), Saône-et- Loire. — Ladoucette (baron de), Ardennes.</ACT> — <ACT>Lasbaysses, Ariège.</ACT> — <ACT>Laurençon, Hau-</ACT> — <ACT>Leborgne, Finistère.</ACT> — <ACT>Le- tes-Alpes.</ACT> — <ACT>Lockroy, Seine. grand (Arthur), Manche.</ACT> — <ACT>Lorois (Emile), Morbihan.</ACT> — <ACT>Maréchal, Million (Louis), Rhône.</ACT> —<ACT> Dordogne</ACT>. — <PER>Pelle</PER>tan<PER> Obissier Saint-Martin,</PER> <ACT>Gironde</ACT>.<PER> Peytr (Camille), Bouches</PER><ACT>-du-</ACT><PER>Rhône</PER>. — <PER>Peytral, (Camille),</PER> <ACT>Bouches-du-Rhône</ACT>.<LOC> es-du-Rhône</LOC>. — <PER>Razim</PER>baud, <LOC>Hérault</LOC>. O<PER> Richard (Pierre),</PER> <LOC>Seine</LOC>. — <LOC>Rive</LOC>t (<LOC>Gu</LOC>s<PER> tave</PER><ACT> Isère</ACT>. — — —<PER> Sirot,</PER> — —<PER> Salis, Hérault. tave),</PER> Isère.<ACT> Trouillot (Georges), Jura</ACT>. — <LOC>Val</LOC>le, Nord — <PER> Márile</PER>. — <PER>Vallon</PER> <ACT>(amiral), Sénégal</ACT>. — <LOC>Ville</LOC>, ",
+  "origin": "human",
+  "parent": 285,
+  "persons": [
+   "MM. Barascud, Aveyron.",
+   "BarDoumy",
+   "Barrès (",
+   "Cosmao-Dumenez",
+   "Déprez (André),",
+   "Deschanel\n(Paul),",
+   "Dreyfus (Camille",
+   "Dufaure",
+   "Amédée",
+   "Dumonteil",
+   "Aisne",
+   "Floquet (Charles),\n— Gran-\n— Gérard (baron),",
+   "Ker",
+   "guy",
+   "te",
+   "Pelle",
+   "Obissier Saint-Martin,",
+   "Peytr\n(Camille), Bouches",
+   "Rhône"
+  ],
+  "text_ocr": "MM. Barascud, Aveyron. — Barbotin,\nIlle-et-Vilaine. — Barrès (Maurice), Meur-\nthe-et-Moselle. — Benoit (de), Aveyron. —\nBigot, Mayenne. — Boissy-d'Anglas, Drôme.\n— Boudeau, Seine. — Bourgeois (Paul),\nVendée. — Bouthier de Rochefort, Saône-\net-Loire. — Cazauvieilh, Gironde. — Cha-\nbrié, Tarn-et-Garonne. — Colombet (de),\nLozère. — Cosmao-Dumenez, Finistère. —\nDéprez (André), Pas-de-Calais. — Deschanel\n(Paul), Eure-et-Loir. — Dreyfus (Camille),\nSeine. — Dufaure (Amédée), Seine-et-Oise.\n— Dumonteil, Aisne. — Floquet (Charles),\nSeine. — Gérard (baron), Calvados. — Gran-\nger, Seine. — Guéguen, Finistère. — Hor-\nteur, Savoie. — Jacquemart, Ardennes. —\nJoffrin, Seine. — Kermenguy (vicomte de),\nFinistère. — Labat, Basses-Pyrénées. — La-\ncôte, Creuse. — Lacretelle (général), Maine-\net-Loire. — Lacretelle (Henri de), Saône-et-\nLoire. — Ladoucette (baron de), Ardennes.\n— Lasbaysses, Ariège. — Laurençon, Hau-\ntes-Alpes — Leborgne, Finistère. — Le-\ngrand (Arthur), Manche. — Lockroy, Seine.\n— Lorois (Emile), Morbihan. — Maréchal,\nDordogne. — Million (Louis), Rhône. —\nObissier Saint-Martin, Gironde. — Pelletan\n(Camille), Bouches-du-Rhône — Peytral,\nBouches-du-Rhône. — Razimbaud, Hérault.\n— Richard (Pierre), Seine. — Rivet (Gus-\ntave), Isère. — Salis, Hérault. — Sirot,\nNord. — Trouillot (Georges), Jura. — Valle,\nMarne. — Vallon (amiral), Sénégal. — Ville,\nAllier.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1167
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   1350.1166282327788,
+   1695.9222478448144,
+   584,
+   22
+  ],
+  "checked": true,
+  "comment": "desc",
+  "id": 282,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "persons": [],
+  "text_ocr": "9e bureau.",
+  "type": "TITLE_LEVEL_2",
+  "key": [
+   2,
+   1706
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1353.0141923157937,
+   1736.0227077052698,
+   587.9489076631426,
+   965.9772922947302
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 395,
+  "ner_xml": "<PER>MM. Abrial (Léon), Tarn</PER>. — <PER>Arène</PER> <ACT>(Em- manuel), Corse.</ACT> — <ACT>Argeliès, Seine-et-Oise.</ACT> — <ACT>Baïhaut, — Aynard (Edouard), Rhône.</ACT> — <ACT>Bas-</ACT> — <ACT>Bargy, Côde-d'Or. Haute-Saône</ACT>. —<ACT> Bérard, Rhône. tid (Adrien), Cantal</ACT>. — <ACT>Bovier- Borriglione, Alpes-Maritimes. Lapierre, Isère</ACT>. — <ACT>Boy</ACT>ss<ACT>et, Saône-et-Loire</ACT>.<PER> Brunier</PER> — —<PER> Brincard</PER><ACT>, Seine-et-Oise.</ACT><PER> (Godefroy) Cavaignac Haute-Savoie</PER>. — <PER>Charmes (Francis</PER><ACT>), Cantal. Sarthe</ACT>. — <ACT>Clau</ACT><PER>zel</PER><ACT>, Ardèche. Chau</ACT><PER>temps</PER><ACT>, Seine. al- Clémenceau, Var</ACT>. — <PER>Delafosse (Jules), DeS</PER> — <PER>Deproge, La Martinique</PER>.<PER> vados</PER>.<PER> jardins (Ernest),</PER> <ACT>Aisne</ACT>. — <LOC>Dompierre d'Hor</LOC> — <PER>Dubois noy (vice-amiral de),</PER> <ACT>Somme</ACT>. — <PER>Dupuy (Charles</PER><ACT>), Haute- (Emile), Nord</ACT>.<ACT> Loire</ACT>.—<PER>El</PER>va <ACT>(</ACT><PER>Christ</PER><ACT>ian comte d'),</ACT> Mayenne.<PER> Garnier</PER><ACT> Fall</ACT>ières, Lot-<ACT>et-</ACT>Garonne.<PER> Charente-IIérieure</PER>.<PER> Hurard</PER><LOC>, La Martini</LOC>- que. — <PER>Jacques</PER>, <LOC>Seine</LOC>. — <LOC>Lagnel</LOC>, <LOC>Bouches</LOC><PER> du-Rhône</PER>. — <PER>Lanjuinais (comte de</PER><LOC>), Mor</LOC>-<PER> bihan</PER>.<ACT> Madier de Montjau</ACT>, <LOC>Drome</LOC>.<PER> Malartre</PER><LOC>, Haute-Loire</LOC>. —<PER> Malartre</PER><ACT>, Haute-Loire</ACT>. — <PER>Mer</PER>lou, <LOC>Yonne</LOC>.<LOC> Cher</LOC>. —  Maret (<ACT>Henr Mont</ACT>éty<PER> comte de ,Aveyron</PER>.— <PER>Montfort</PER> <ACT>(de</ACT><LOC>), Seinle</LOC>-<PER> Te Moustier (marquis de),</PER> <LOC>Doubs</LOC>. —<PER> Inférieure. Montsaulnin</PER> <ACT>(</ACT><PER>de),</PER> <ACT>Cher</ACT>. — <ACT>Papelier — Moustier (marquis de), Doubs</ACT>. — <ACT>Pesson (Albert), In- Meurthe-et-Moselle. dre-et-Loire</ACT>. — <ACT>Pon</ACT><PER>le</PER><ACT>voy (Frogier de), Vos- Robert-Mitchell, Gironde</ACT>. — <ACT>Roche ges</ACT>. — — <ACT>Rouvier, Alpes-Mariti- Savoie. (Jules), mes</ACT>. —<ACT> Saint-Germain, Oran.</ACT> — <ACT>Sourigues, Landes</ACT>. — <ACT>Trannin, Nord</ACT>. — <PER>Turigny</PER><ACT>, Niè</ACT>- — <PER>Vig</PER><ACT>er, Loiret</ACT>. —<PER> Waddington</PER> <ACT>(Ri-</ACT><PER> vre</PER>.<PER> chard),</PER> <LOC>Seine-Inférieure</LOC>.",
+  "origin": "human",
+  "parent": 286,
+  "persons": [
+   "MM. Abrial (Léon), Tarn",
+   "Arène",
+   "Brunier",
+   "Brincard",
+   "(Godefroy)\nCavaignac\nHaute-Savoie",
+   "Charmes\n(Francis",
+   "zel",
+   "temps",
+   "Delafosse (Jules),\nDeS",
+   "Deproge, La Martinique",
+   "vados"
+  ],
+  "text_ocr": "MM. Abrial (Léon), Tarn. — Arène (Em-\nmanuel), Corse. — Argeliès, Seine-et-Oise.\n— Aynard (Edouard), Rhône. — Baïhaut,\nHaute-Saône. — Bargy, Côde-d'Or. — Bas-\ntid (Adrien), Cantal. — Bérard, Rhône. —\nBorriglione, Alpes-Maritimes. — Bovier-\nLapierre, Isère. — Boysset, Saône-et-Loire.\n— Brincard, Seine-et-Oise. — Brunier,\nHaute-Savoie. — Cavaignac (Godefroy\nSarthe. — Charmes (Francis), Cantal.\nChautemps, Seine. — Clauzel, Ardèche.\nClémenceau, Var. — Delafosse (Jules), Cal-\nvados. — Deproge, La Martinique. — Des-\njardins (Ernest), Aisne. — Dompierre d'Hor-\nnoy (vice-amiral de), Somme. — Dubois\n(Emile), Nord. — Dupuy (Charles), Haute-\nLoire.— Elva (Christian comte d'), Mayenne.\n— Fallières, Lot-et-Garonne. — Garnier,\nCharente-Inférieure. — Hurard, La Martini-\nque. — Jacques, Seine. — Lagnel, Bouches-\ndu-Rhône. — Lanjuinais (comte de), Mor-\nbihan. — Madier de Montjau, Drôme. — \nMalartre, Haute-Loire. — Maret (Henry),\nCher. — Merlou, Yonne. — Montéty (vi-\ncomte de), Aveyron.— Montfort (de), Seine-\nInférieure. — Montsaulnin (de), Cher. —\nMoustier (marquis de), Doubs. — Papelier\nMeurthe-et-Moselle. — Pesson (Albert), In-\ndre-et-Loire. — Ponlevoy (Frogier de), Vos-\nges. — Robert-Mitchell, Gironde. — Roche\n(Jules), Savoie. — Rouvier, Alpes-Mariti-\nmes. — Saint-Germain, Oran. — Sourigues,\nLandes. — Trannin, Nord. — Turigny, Niè-\nvre. — Viger, Loiret. — Waddington (Ri-\nchard), Seine-Inférieure.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   2218
+  ]
+ }
+]

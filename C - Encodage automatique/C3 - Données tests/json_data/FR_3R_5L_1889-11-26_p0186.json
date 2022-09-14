@@ -1,0 +1,4950 @@
+[
+ {
+  "box": [
+   220,
+   172,
+   1720,
+   2374
+  ],
+  "comment": "",
+  "id": 256,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 255,
+  "text_ocr": "« Quant aux accusations que j'aurais pro-\nférées contre le gouvernement, elles sont\nfausses : car je suis ses prescriptions com-\nme le doit faire tout bon citoyen, et je le\nregarde comme mon protecteur. Je respecte\ntrop l'autorité pour me permettre des pro-\npos injurieux ou malveillants à son égard. »",
+  "type": "PAGE"
+ },
+ {
+  "activities": [],
+  "box": [
+   220.0,
+   170.77152707947124,
+   1720,
+   30
+  ],
+  "checked": true,
+  "comment": "page-number",
+  "id": 257,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 256,
+  "persons": [],
+  "text_ocr": "186 CHAMBRE DES DÉPUTES — SEANCE DU 26 NOVEMBRE 1889",
+  "type": "TITLE_LEVEL_1"
+ },
+ {
+  "box": [
+   220,
+   230,
+   1720,
+   2316
+  ],
+  "id": 258,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 256,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_1"
+ },
+ {
+  "box": [
+   220,
+   230,
+   564,
+   2316
+  ],
+  "id": 259,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 258,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_1"
+ },
+ {
+  "box": [
+   220,
+   230,
+   564,
+   2316
+  ],
+  "id": 260,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 259,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   220,
+   230,
+   564,
+   2316
+  ],
+  "id": 261,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 260,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   794,
+   230,
+   574,
+   2316
+  ],
+  "id": 262,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 258,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_1"
+ },
+ {
+  "box": [
+   794,
+   230,
+   574,
+   2316
+  ],
+  "id": 263,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 262,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   794,
+   230,
+   574,
+   2316
+  ],
+  "id": 264,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 263,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   1376,
+   230,
+   564,
+   2316
+  ],
+  "id": 265,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 258,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_1"
+ },
+ {
+  "box": [
+   1376,
+   230,
+   564,
+   2316
+  ],
+  "id": 266,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 265,
+  "text_ocr": "",
+  "type": "SECTION_LEVEL_2"
+ },
+ {
+  "box": [
+   1376,
+   230,
+   564,
+   2316
+  ],
+  "id": 267,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 266,
+  "text_ocr": "",
+  "type": "COLUMN_LEVEL_2"
+ },
+ {
+  "box": [
+   224,
+   232,
+   548,
+   26
+  ],
+  "id": 379,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 268,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   250,
+   260,
+   522,
+   24
+  ],
+  "id": 380,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 268,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   286,
+   548,
+   26
+  ],
+  "id": 381,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   312,
+   550,
+   26
+  ],
+  "id": 382,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   338,
+   550,
+   28
+  ],
+  "id": 383,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   364,
+   550,
+   28
+  ],
+  "id": 384,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   392,
+   550,
+   24
+  ],
+  "id": 385,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   418,
+   552,
+   26
+  ],
+  "id": 386,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   444,
+   548,
+   28
+  ],
+  "id": 387,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   470,
+   358,
+   26
+  ],
+  "id": 388,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 269,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   252,
+   496,
+   520,
+   28
+  ],
+  "id": 389,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 277,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   228,
+   524,
+   546,
+   26
+  ],
+  "id": 390,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 277,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   550,
+   546,
+   22
+  ],
+  "id": 391,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 277,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   576,
+   548,
+   26
+  ],
+  "id": 392,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 277,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   602,
+   550,
+   26
+  ],
+  "id": 393,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 277,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   628,
+   216,
+   22
+  ],
+  "id": 394,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 277,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   250,
+   656,
+   524,
+   22
+  ],
+  "id": 395,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   682,
+   316,
+   24
+  ],
+  "id": 396,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   250,
+   708,
+   522,
+   26
+  ],
+  "id": 397,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 278,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   734,
+   550,
+   26
+  ],
+  "id": 398,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   760,
+   548,
+   26
+  ],
+  "id": 399,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   786,
+   552,
+   26
+  ],
+  "id": 400,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   814,
+   552,
+   22
+  ],
+  "id": 401,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   840,
+   552,
+   26
+  ],
+  "id": 402,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   866,
+   550,
+   26
+  ],
+  "id": 403,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   892,
+   550,
+   20
+  ],
+  "id": 404,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   918,
+   550,
+   24
+  ],
+  "id": 405,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   942,
+   550,
+   26
+  ],
+  "id": 406,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   970,
+   552,
+   24
+  ],
+  "id": 407,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   994,
+   554,
+   28
+  ],
+  "id": 408,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1022,
+   550,
+   26
+  ],
+  "id": 409,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1048,
+   552,
+   26
+  ],
+  "id": 410,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1074,
+   552,
+   28
+  ],
+  "id": 411,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   220,
+   1102,
+   554,
+   26
+  ],
+  "id": 412,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1128,
+   552,
+   26
+  ],
+  "id": 413,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1154,
+   550,
+   26
+  ],
+  "id": 414,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1182,
+   550,
+   24
+  ],
+  "id": 415,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1206,
+   552,
+   24
+  ],
+  "id": 416,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1234,
+   550,
+   24
+  ],
+  "id": 417,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1260,
+   550,
+   22
+  ],
+  "id": 418,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1286,
+   550,
+   26
+  ],
+  "id": 419,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1312,
+   552,
+   26
+  ],
+  "id": 420,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1338,
+   420,
+   26
+  ],
+  "id": 421,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 279,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   248,
+   1364,
+   526,
+   26
+  ],
+  "id": 422,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 303,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1390,
+   552,
+   26
+  ],
+  "id": 423,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 303,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1418,
+   164,
+   18
+  ],
+  "id": 424,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 303,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   250,
+   1444,
+   524,
+   20
+  ],
+  "id": 425,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 303,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1470,
+   550,
+   26
+  ],
+  "id": 426,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1496,
+   550,
+   24
+  ],
+  "id": 427,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1522,
+   550,
+   22
+  ],
+  "id": 428,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1548,
+   552,
+   26
+  ],
+  "id": 429,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1574,
+   552,
+   26
+  ],
+  "id": 430,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1600,
+   550,
+   26
+  ],
+  "id": 431,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1628,
+   552,
+   24
+  ],
+  "id": 432,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   220,
+   1654,
+   556,
+   26
+  ],
+  "id": 433,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   1680,
+   552,
+   24
+  ],
+  "id": 434,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1706,
+   550,
+   26
+  ],
+  "id": 435,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1734,
+   422,
+   24
+  ],
+  "id": 436,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 304,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   252,
+   1758,
+   522,
+   26
+  ],
+  "id": 437,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 315,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1786,
+   552,
+   24
+  ],
+  "id": 438,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 315,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   1810,
+   548,
+   26
+  ],
+  "id": 439,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 315,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   1838,
+   552,
+   26
+  ],
+  "id": 440,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 315,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   1862,
+   550,
+   24
+  ],
+  "id": 441,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 315,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   1888,
+   492,
+   20
+  ],
+  "id": 442,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 315,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   252,
+   1912,
+   524,
+   24
+  ],
+  "id": 443,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   1938,
+   550,
+   26
+  ],
+  "id": 444,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   1966,
+   548,
+   26
+  ],
+  "id": 445,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   1992,
+   548,
+   26
+  ],
+  "id": 446,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2020,
+   550,
+   24
+  ],
+  "id": 447,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2046,
+   548,
+   26
+  ],
+  "id": 448,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2072,
+   548,
+   24
+  ],
+  "id": 449,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2100,
+   550,
+   24
+  ],
+  "id": 450,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   2126,
+   552,
+   24
+  ],
+  "id": 451,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2152,
+   548,
+   26
+  ],
+  "id": 452,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2178,
+   550,
+   22
+  ],
+  "id": 453,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   222,
+   2204,
+   552,
+   26
+  ],
+  "id": 454,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2230,
+   550,
+   26
+  ],
+  "id": 455,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2256,
+   548,
+   26
+  ],
+  "id": 456,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2284,
+   550,
+   26
+  ],
+  "id": 457,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2308,
+   550,
+   28
+  ],
+  "id": 458,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2334,
+   550,
+   28
+  ],
+  "id": 459,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2362,
+   394,
+   24
+  ],
+  "id": 460,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 316,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   252,
+   2388,
+   522,
+   26
+  ],
+  "id": 461,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 328,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2414,
+   64,
+   20
+  ],
+  "id": 462,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 328,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   252,
+   2440,
+   522,
+   26
+  ],
+  "id": 463,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 329,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   226,
+   2466,
+   546,
+   26
+  ],
+  "id": 464,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 329,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   252,
+   2492,
+   522,
+   26
+  ],
+  "id": 465,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 330,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   224,
+   2518,
+   550,
+   28
+  ],
+  "id": 466,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 330,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   232,
+   550,
+   26
+  ],
+  "id": 467,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   260,
+   550,
+   26
+  ],
+  "id": 468,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   286,
+   550,
+   26
+  ],
+  "id": 469,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   312,
+   550,
+   26
+  ],
+  "id": 470,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   338,
+   550,
+   26
+  ],
+  "id": 471,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   366,
+   550,
+   24
+  ],
+  "id": 472,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   392,
+   550,
+   26
+  ],
+  "id": 473,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   418,
+   552,
+   26
+  ],
+  "id": 474,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   444,
+   552,
+   26
+  ],
+  "id": 475,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   470,
+   548,
+   22
+  ],
+  "id": 476,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   498,
+   554,
+   26
+  ],
+  "id": 477,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   522,
+   554,
+   28
+  ],
+  "id": 478,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   550,
+   554,
+   20
+  ],
+  "id": 479,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   576,
+   550,
+   26
+  ],
+  "id": 480,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   604,
+   196,
+   20
+  ],
+  "id": 481,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 331,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   628,
+   524,
+   26
+  ],
+  "id": 482,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   654,
+   550,
+   28
+  ],
+  "id": 483,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   682,
+   554,
+   26
+  ],
+  "id": 484,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   708,
+   550,
+   24
+  ],
+  "id": 485,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   734,
+   550,
+   26
+  ],
+  "id": 486,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   762,
+   392,
+   24
+  ],
+  "id": 487,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   810,
+   786,
+   548,
+   26
+  ],
+  "id": 488,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   814,
+   552,
+   26
+  ],
+  "id": 489,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   840,
+   550,
+   24
+  ],
+  "id": 490,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   866,
+   552,
+   22
+  ],
+  "id": 491,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   890,
+   552,
+   26
+  ],
+  "id": 492,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   918,
+   552,
+   24
+  ],
+  "id": 493,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   944,
+   552,
+   24
+  ],
+  "id": 494,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   968,
+   552,
+   26
+  ],
+  "id": 495,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   994,
+   552,
+   28
+  ],
+  "id": 496,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1022,
+   554,
+   24
+  ],
+  "id": 497,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1050,
+   108,
+   24
+  ],
+  "id": 498,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 346,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   1076,
+   338,
+   24
+  ],
+  "id": 499,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 347,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   1102,
+   526,
+   20
+  ],
+  "id": 500,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   1130,
+   554,
+   24
+  ],
+  "id": 501,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1154,
+   552,
+   26
+  ],
+  "id": 502,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1180,
+   552,
+   26
+  ],
+  "id": 503,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1206,
+   552,
+   26
+  ],
+  "id": 504,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1234,
+   552,
+   26
+  ],
+  "id": 505,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1260,
+   554,
+   24
+  ],
+  "id": 506,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1286,
+   552,
+   26
+  ],
+  "id": 507,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1312,
+   552,
+   24
+  ],
+  "id": 508,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1338,
+   552,
+   24
+  ],
+  "id": 509,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1364,
+   474,
+   26
+  ],
+  "id": 510,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 348,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   1390,
+   526,
+   24
+  ],
+  "id": 511,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 349,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1416,
+   552,
+   26
+  ],
+  "id": 512,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 349,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1444,
+   552,
+   20
+  ],
+  "id": 513,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 349,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1468,
+   552,
+   26
+  ],
+  "id": 514,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 349,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1496,
+   116,
+   24
+  ],
+  "id": 515,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 349,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   1522,
+   524,
+   24
+  ],
+  "id": 516,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1548,
+   552,
+   26
+  ],
+  "id": 517,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1574,
+   552,
+   26
+  ],
+  "id": 518,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1602,
+   550,
+   24
+  ],
+  "id": 519,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1628,
+   550,
+   24
+  ],
+  "id": 520,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1654,
+   552,
+   26
+  ],
+  "id": 521,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   1682,
+   64,
+   20
+  ],
+  "id": 522,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 350,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   834,
+   1706,
+   524,
+   22
+  ],
+  "id": 523,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 351,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1732,
+   552,
+   26
+  ],
+  "id": 524,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 351,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1760,
+   552,
+   24
+  ],
+  "id": 525,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 351,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1786,
+   552,
+   26
+  ],
+  "id": 526,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 351,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   1812,
+   352,
+   26
+  ],
+  "id": 527,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 351,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   1838,
+   526,
+   26
+  ],
+  "id": 528,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 352,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   1864,
+   308,
+   24
+  ],
+  "id": 529,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 352,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   834,
+   1888,
+   524,
+   20
+  ],
+  "id": 530,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   1914,
+   550,
+   24
+  ],
+  "id": 531,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   1940,
+   550,
+   26
+  ],
+  "id": 532,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   1966,
+   548,
+   26
+  ],
+  "id": 533,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   1992,
+   276,
+   22
+  ],
+  "id": 534,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 353,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   834,
+   2020,
+   522,
+   28
+  ],
+  "id": 535,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2048,
+   550,
+   24
+  ],
+  "id": 536,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2074,
+   548,
+   26
+  ],
+  "id": 537,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2100,
+   550,
+   26
+  ],
+  "id": 538,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2126,
+   550,
+   26
+  ],
+  "id": 539,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2152,
+   550,
+   26
+  ],
+  "id": 540,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2180,
+   116,
+   20
+  ],
+  "id": 541,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 354,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   2204,
+   524,
+   26
+  ],
+  "id": 542,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2232,
+   550,
+   24
+  ],
+  "id": 543,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2258,
+   550,
+   24
+  ],
+  "id": 544,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2284,
+   550,
+   26
+  ],
+  "id": 545,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2310,
+   550,
+   26
+  ],
+  "id": 546,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   2336,
+   548,
+   26
+  ],
+  "id": 547,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   808,
+   2364,
+   548,
+   22
+  ],
+  "id": 548,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2388,
+   550,
+   26
+  ],
+  "id": 549,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2414,
+   408,
+   26
+  ],
+  "id": 550,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 355,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   832,
+   2442,
+   524,
+   24
+  ],
+  "id": 551,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 356,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2468,
+   550,
+   26
+  ],
+  "id": 552,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 356,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   804,
+   2494,
+   550,
+   26
+  ],
+  "id": 553,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 356,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   806,
+   2522,
+   548,
+   24
+  ],
+  "id": 554,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 356,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   230,
+   550,
+   28
+  ],
+  "id": 555,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 357,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   248,
+   548,
+   34
+  ],
+  "id": 556,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 357,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   278,
+   550,
+   30
+  ],
+  "id": 557,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 357,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   302,
+   546,
+   34
+  ],
+  "id": 558,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 357,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   332,
+   550,
+   26
+  ],
+  "id": 559,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 357,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1396,
+   364,
+   190,
+   26
+  ],
+  "id": 560,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 357,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   384,
+   520,
+   26
+  ],
+  "id": 561,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 359,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   408,
+   548,
+   32
+  ],
+  "id": 562,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 359,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1392,
+   442,
+   374,
+   26
+  ],
+  "id": 563,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 359,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1418,
+   464,
+   520,
+   28
+  ],
+  "id": 564,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   490,
+   550,
+   28
+  ],
+  "id": 565,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   516,
+   548,
+   28
+  ],
+  "id": 566,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   540,
+   548,
+   30
+  ],
+  "id": 567,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   568,
+   546,
+   30
+  ],
+  "id": 568,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   596,
+   546,
+   28
+  ],
+  "id": 569,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   622,
+   546,
+   26
+  ],
+  "id": 570,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   648,
+   548,
+   24
+  ],
+  "id": 571,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   674,
+   550,
+   30
+  ],
+  "id": 572,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   706,
+   82,
+   18
+  ],
+  "id": 573,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 360,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1414,
+   724,
+   522,
+   28
+  ],
+  "id": 574,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 361,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   750,
+   546,
+   30
+  ],
+  "id": 575,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 361,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   780,
+   552,
+   28
+  ],
+  "id": 576,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 361,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   804,
+   550,
+   32
+  ],
+  "id": 577,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 361,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   830,
+   550,
+   30
+  ],
+  "id": 578,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 361,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   862,
+   474,
+   22
+  ],
+  "id": 579,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 361,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   882,
+   518,
+   30
+  ],
+  "id": 580,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   912,
+   546,
+   26
+  ],
+  "id": 581,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   938,
+   546,
+   26
+  ],
+  "id": 582,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   964,
+   550,
+   22
+  ],
+  "id": 583,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   992,
+   122,
+   24
+  ],
+  "id": 584,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 362,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   1014,
+   524,
+   28
+  ],
+  "id": 585,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 363,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1042,
+   550,
+   28
+  ],
+  "id": 586,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 363,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1068,
+   546,
+   30
+  ],
+  "id": 587,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 363,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1098,
+   366,
+   24
+  ],
+  "id": 588,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 363,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   1124,
+   374,
+   24
+  ],
+  "id": 589,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 364,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1420,
+   1150,
+   284,
+   24
+  ],
+  "id": 590,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 365,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   1176,
+   306,
+   24
+  ],
+  "id": 591,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 366,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1418,
+   1202,
+   422,
+   26
+  ],
+  "id": 592,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 367,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   1220,
+   522,
+   34
+  ],
+  "id": 593,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 368,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1252,
+   544,
+   28
+  ],
+  "id": 594,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 368,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1280,
+   534,
+   28
+  ],
+  "id": 595,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 368,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1418,
+   1306,
+   520,
+   26
+  ],
+  "id": 596,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 369,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1392,
+   1332,
+   544,
+   26
+  ],
+  "id": 597,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 369,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1358,
+   548,
+   24
+  ],
+  "id": 598,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 369,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1382,
+   548,
+   28
+  ],
+  "id": 599,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 369,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1392,
+   1412,
+   116,
+   20
+  ],
+  "id": 600,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 369,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1418,
+   1434,
+   520,
+   28
+  ],
+  "id": 601,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 370,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1464,
+   546,
+   26
+  ],
+  "id": 602,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 370,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1490,
+   546,
+   26
+  ],
+  "id": 603,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 370,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1392,
+   1514,
+   544,
+   30
+  ],
+  "id": 604,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 370,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1546,
+   176,
+   18
+  ],
+  "id": 605,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 370,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   1564,
+   518,
+   30
+  ],
+  "id": 606,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1594,
+   546,
+   24
+  ],
+  "id": 607,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1622,
+   546,
+   26
+  ],
+  "id": 608,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1646,
+   548,
+   26
+  ],
+  "id": 609,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1674,
+   546,
+   26
+  ],
+  "id": 610,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1696,
+   548,
+   30
+  ],
+  "id": 611,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1724,
+   546,
+   28
+  ],
+  "id": 612,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   1750,
+   546,
+   28
+  ],
+  "id": 613,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   1776,
+   546,
+   30
+  ],
+  "id": 614,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1392,
+   1806,
+   542,
+   26
+  ],
+  "id": 615,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   1830,
+   546,
+   28
+  ],
+  "id": 616,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1858,
+   456,
+   26
+  ],
+  "id": 617,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 371,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   1884,
+   398,
+   24
+  ],
+  "id": 618,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 372,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   1902,
+   550,
+   58
+  ],
+  "id": 619,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 373,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   1958,
+   548,
+   30
+  ],
+  "id": 620,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 373,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   1986,
+   550,
+   30
+  ],
+  "id": 621,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 373,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2014,
+   524,
+   26
+  ],
+  "id": 622,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1416,
+   2036,
+   520,
+   28
+  ],
+  "id": 623,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2064,
+   550,
+   30
+  ],
+  "id": 624,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2088,
+   550,
+   32
+  ],
+  "id": 625,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2116,
+   548,
+   26
+  ],
+  "id": 626,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2142,
+   548,
+   30
+  ],
+  "id": 627,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   2168,
+   546,
+   32
+  ],
+  "id": 628,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2194,
+   548,
+   30
+  ],
+  "id": 629,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2220,
+   546,
+   30
+  ],
+  "id": 630,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1390,
+   2248,
+   546,
+   30
+  ],
+  "id": 631,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2274,
+   548,
+   28
+  ],
+  "id": 632,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2300,
+   546,
+   30
+  ],
+  "id": 633,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2336,
+   74,
+   18
+  ],
+  "id": 634,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 376,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1414,
+   2348,
+   520,
+   34
+  ],
+  "id": 635,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 377,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2378,
+   546,
+   30
+  ],
+  "id": 636,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 377,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1386,
+   2404,
+   546,
+   32
+  ],
+  "id": 637,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 377,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1386,
+   2432,
+   548,
+   30
+  ],
+  "id": 638,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 377,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2452,
+   548,
+   34
+  ],
+  "id": 639,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 377,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1388,
+   2490,
+   116,
+   22
+  ],
+  "id": 640,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 377,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "box": [
+   1412,
+   2506,
+   522,
+   36
+  ],
+  "id": 641,
+  "ner_xml": "",
+  "origin": "computer",
+  "parent": 378,
+  "text_ocr": "",
+  "type": "LINE"
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   221.5430541589423,
+   225.93843937157396,
+   557.8681853513388,
+   32.263629297322325
+  ],
+  "checked": true,
+  "comment": "seg-end incident",
+  "id": 268,
+  "ner_xml": "<PER>l'évêché lui-même</PER>. (Interruptions au centre.) Cette pièce est concue en ces termes",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [
+   "l'évêché lui-même"
+  ],
+  "text_ocr": "l'évêché lui-même. (Interruptions au centre.)",
+  "type": "ENTRY",
+  "key": [
+   0,
+   241
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   222.0,
+   260.20206866889635,
+   552.0,
+   235.79793133110365
+  ],
+  "checked": true,
+  "comment": "seg quote incident",
+  "id": 269,
+  "ner_xml": "“ <PER>Aucune circulaire</PER><ACT>, ni publique ni privée</ACT>, n'a été adressée au clergé pendant la pé-<PER> riode électorale</PER>. » Et voyez jusqu'ou l'évê-<PER> ché de Montauban</PER> a poussé ce que j'appel-<PER> lerai</PER> la discrétion : « En outre, l'instruction<PER> pastorale</PER> <ACT>concernant l'encyclique du sou</ACT>-<PER> verain pontile</PER>, imprimée le 16 septembre, n'a été envoyée que le 26. »",
+  "origin": "human",
+  "parent": 261,
+  "persons": [
+   "Aucune circulaire"
+  ],
+  "text_ocr": "Cette pièce est concue en ces termes:\n« Aucune circulaire, ni publique ni privée,\nn'a été adressée au clergé pendant la pé-\nriode électorale. » Et voyez jusqu'ou l'évê-\nché de Montauban a poussé ce que j'appel-\nlerai la discrétion : « En outre, l'instruction\npastorale concernant l'encyclique du sou-\nverain pontile, imprimée le 16 septembre,\nn'a été envoyée que le 26. »",
+  "type": "ENTRY",
+  "key": [
+   0,
+   377
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   225.7150256937307,
+   501.57253854059604,
+   552,
+   154
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 277,
+  "ner_xml": "Voilà, il me semble, une preuve <ACT>suffi</ACT>-<ACT> s</ACT>ante pour établir qu'il ne s'est produit dans le diocèse de Montauban aucune in- tervention de la part de l'autorité supé- rieure ecclésiastique en faveur de telle ou telle čandldatu",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "Voilà, il me semble, une preuve suffi-\nsante pour établir qu'il ne s'est produit\ndans le diocèse de Montauban aucune in-\ntervention de la part de l'autorité supé-\nrieure ecclésiastique en faveur de telle ou\ntelle candidature.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   578
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   224.0,
+   652.2697018470966,
+   559.3257453822583,
+   51.88791292967676
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 278,
+  "ner_xml": "<PER>Arriv</PER>ons maintenant <ACT>aux faits eux-mê- mes et aux protestations</ACT>. D'abord, voyons de quelle façon ont été",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [
+   "Arriv"
+  ],
+  "text_ocr": "Arrivons maintenant aux faits eux-mê-\nmes et aux protestations.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   677
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   219.49420951065616,
+   708.6461905275959,
+   556,
+   652.3817889174198
+  ],
+  "checked": true,
+  "comment": "u-end seg incident",
+  "id": 279,
+  "ner_xml": "obtenues ces protestations. Oh! d'une ma-<PER> nière</PER> <ACT>bien simple</ACT> : <ACT>le journal de M</ACT>. <ACT>Cambe</ACT>, à la date du 10 octobre 1889, a publié une<ACT> sorte de code de l</ACT>'<ACT>invalidation</ACT>. a dit: faut faire invalider M. Arnault, parce qu'i Ta été en 1885, — ce qui ne m'a pas empè- Z donc voulu recommencer la même campa-<PER> gne</PER> qu'en 1885. Or, comme la principale raison qu'on invoquait à cette époque était<PER> l'ingérence cléricale</PER><ACT>, on a dirigé les pro</ACT>-<ACT> testations</ACT> de ce côté, et voici le procédé<PER> auquel on a</PER> eu recours : on a engagé le<PER> comité de chaque commune</PER> à se réunir et a rechercher quels faits pourraient exister de ce chel, mais en n'agissant que dans le plus profond secret. Il fallait que rien n'en transpirat au dehors. C'est alors que deux<PER> agents de M. Cambe</PER> <ACT>sont allés de com</ACT>-<ACT> mune en commune recruter les protest</ACT>a-<PER> Lion</PER><ACT>s des affidés locaux</ACT> et les faire léga ser ; et par qui? Non par les maires, mais par les juges de <ACT>paix</ACT>, toujours pour éviter<ACT> la</ACT> <PER>publicité</PER>. (Mouvements divers.",
+  "origin": "human",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "D'abord, voyons de quelle façon ont éte\nobtenues ces protestations. Oh! d'une ma-\nnière bien simple : le journal de M. Cambe,\nà la date du 10 octobre 1889, a publié une\nsorte de code de l'invalidation. Il a dit : Il\nfaut faire invalider M. Arnault, parce qu'il\nl'a été en 1885, — ce qui ne m'a pas empê-\nché d'être réélu la même année. — On a\ndonc voulu recommencer la même campa-\ngne qu'en 1885. Or, comme la principale\nraison qu'on invoquait à cette époque était\nl'ingérence cléricale, on a dirigé les pro-\ntestations de ce côté, et voici le procédé\nauquel on a eu recours : on a engagé le\ncomité de chaque commune à se réunir et\nà rechercher quels faits pourraient exister\nde ce chef, mais en n'agissant que dans le\nplus profond secret. Il fallait que rien n'en\ntranspirât au dehors. C'est alors que deux\nagents de M. Cambe sont allés de com-\nmune en commune recruter les protesta-\ntions des affidés locaux et les faire légali-\nser; et par qui? Non par les maires, mais\npar les juges de paix, toujours pour éviter\nla publicité. (Mouvements divers.)",
+  "type": "ENTRY",
+  "key": [
+   0,
+   1034
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   216.00698656462643,
+   1364.0,
+   557.9930134353735,
+   79.62375431972987
+  ],
+  "checked": true,
+  "comment": "u seg",
+  "id": 303,
+  "ner_xml": "<PER>M. Leygues</PER>. <ACT>Singulier mystère que ce- lui qu'on publie dans un journal que tout le monde lit</ACT>! M se DO Arnaul",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [
+   "M. Leygues"
+  ],
+  "text_ocr": "M. Leygues. Singulier mystère que ce-\nlui qu'on publie dans un journal que tout\nle monde lit!",
+  "type": "ENTRY",
+  "key": [
+   0,
+   1403
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   218.02636292973227,
+   1441.233535510207,
+   556,
+   316.76646448979295
+  ],
+  "checked": true,
+  "comment": "u-beginning seg incident",
+  "id": 304,
+  "ner_xml": "les <ACT>protestation</ACT>s; mais le journal ne les pu-<PER> bliait</PER> pas. Voici ce document : «1ls doi- vent se borner d'abord à rechercher LU<ACT> faits sans ébruiter l'enquête à</ACT> laquelle ils se livrent, de facon à ne pas donner aux<PER> délinquant</PER>s le temps d'intimider les <ACT>té</ACT>- moins ou de les acheter pour leur fermer<LOC> la bouche</LOC>. (R<LOC>umeurs à gauche</LOC>. — <LOC>Très bien</LOC>! a droite.) Les signatures doivent être, au- tant que possible, légalisées par le maire,<ACT> son adjoint ou le juge de palx</ACT>...",
+  "origin": "human",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "M. Arnault. On se bornait à recueillir\nles protestations; mais le journal ne les pu-\nbliait pas. Voici ce document: « Ils doi-\nvent se borner d'abord à rechercher les\nfaits sans ébruiter l'enquête à laquelle ils\nse livrent, de façon à ne pas donner aux\ndélinquants le temps d'intimider les té-\nmoins ou de les acheter pour leur fermer\nla bouche. (Rumeurs à gauche. — Très bien!\nà droite.) Les signatures doivent être, au-\ntant que possible, légalisées par le maire,\nson adjoint ou le juge de paix...»",
+  "type": "ENTRY",
+  "key": [
+   0,
+   1599
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   225.1936954089291,
+   1758.0,
+   552,
+   150
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 315,
+  "ner_xml": "Il ne vous échappera pas, messieurs, qu'en cette matière le <ACT>juge de paix</ACT> n'avait pas le droit de <ACT>légalisation</ACT>. D'après la loi de 1861, en effet, le juge de paix ne peut légaliser que les signatures des <ACT>officiers de Petat civil ou des ofiiciers</ACT> mImisterie",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "Il ne vous échappera pas, messieurs,\nqu'en cette matière le juge de paix n'avait\npas le droit de légalisation. D'après la loi\nde 1861, en effet, le juge de paix ne peut\nlégaliser que les signatures des officiers de\nl'état civil ou des ofiiciers ministériels.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   1833
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   223.19860268707475,
+   1912.0,
+   554,
+   474
+  ],
+  "checked": true,
+  "comment": "seg incident",
+  "id": 316,
+  "ner_xml": "<PER>Ceci</PER> dit, j'arrive aux faits cités à la tri- bune tout à l'heure et <ACT>relatifs à l</ACT>'<ACT>ingérence du clergé</ACT>. Ces faits sont au nombre de sept. Or, la circonscription comprend soixante- dix-sept paroisses ; c'est un bien faible ré- sultat, et dans ce nombre déjà restreint de faits, deux ou trois seulement se seraient<ACT> passes en chaire, et encore dans de toutes</ACT><PER> petites paroisses</PER>. <ACT>En volcl</ACT> Texplication. Dans ces <PER>petites paroisse</PER>s, qui ne sont que<PER> des sections de commune</PER>, le curé a cru de- voir, le jour de T'élection, dire en chaire :<PER> Je chanter</PER>ai les <ACT>vê</ACT>pres immédiatement après la messe, afin de permettre aux élec-<ACT> teurs</ACT> d'aller dans l'après-midi accomplir leur devoir au chef-lieu de la commune. qui est assez éloigné. (Très bien! très bien!<LOC> a</LOC> droite. — <LOC>Rumeurs à gauche</LOC>.)",
+  "origin": "human",
+  "parent": 261,
+  "persons": [
+   "Ceci"
+  ],
+  "text_ocr": "Ceci dit, j'arrive aux faits cités à la tri-\nbune tout à l'heure et relatifs à l'ingérence\ndu clergé. Ces faits sont au nombre de sept.\nOr, la circonscription comprend soixante-\ndix-sept paroisses ; c'est un bien faible ré-\nsultat, et dans ce nombre déjà restreint de\nfaits, deux ou trois seulement se seraient\npassés en chaire, et encore dans de toutes\npetites paroisses. En voici l'explication.\nDans ces petites paroisses, qui ne sont que\ndes sections de commune, le curé a cru de-\nvoir, le jour de l'élection, dire en chaire :\nJe chanterai les vêpres immédiatement\naprès la messe, afin de permettre aux élec-\nteurs d'aller dans l'après-midi accomplir\nleur devoir au chef-lieu de la commune,\nqui est assez éloigné. (Très bien! très bien!\na droite.\n— Rumeurs à gauche.)",
+  "type": "ENTRY",
+  "key": [
+   0,
+   2149
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   226.0,
+   2388.0,
+   548,
+   46
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 328,
+  "ner_xml": "Voilà quelle a été la cause occasion- 11e",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "Voilà quelle a été la cause occasion-\nnelle.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   2411
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   229.5810862267872,
+   2440.0,
+   548.0,
+   52.0
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 329,
+  "ner_xml": "Maintenant je vais <ACT>suivre mon honorable contradicteur et reprendre les faits</ACT> unl à un.",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "Maintenant je vais suivre mon honorable\ncontradicteur et reprendre les faits un à un.",
+  "type": "ENTRY",
+  "key": [
+   0,
+   2466
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   224,
+   2492,
+   550,
+   54
+  ],
+  "checked": true,
+  "comment": "seg-beginning",
+  "id": 330,
+  "ner_xml": "On a parlé d'abord, d'une manière géné- rale, d'un prétendu <ACT>Catéch</ACT>isme <ACT>électoral</ACT> qui",
+  "origin": "computer",
+  "parent": 261,
+  "persons": [],
+  "text_ocr": "On a parlé d'abord, d'une manière géné-\nrale, d'un prétendu Catéchisme électoral qui",
+  "type": "ENTRY",
+  "key": [
+   0,
+   2519
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   804,
+   232,
+   554,
+   392
+  ],
+  "checked": true,
+  "comment": "seg-end",
+  "id": 331,
+  "ner_xml": "aurait été distribué. Eh bien, ce Catéchisme<PER> électoral</PER>, je <ACT>ne Tai jamais vu</ACT>, je ne le con-<PER> nais</PER> pas, je ne sais pas encore, à lheure<ACT> qu'il est, ce que</ACT> c'est ; ce qui montre bien qu'il n'est pas vrai qu'il ait été distribué. Et, en effet, aucune protestation ne raconte que cette distribution ait été faite, ni ou ni par qui elle aurait été faite. Cependant je me suis <ACT>informé</ACT>, et j'ai appris que ce<PER> AO</PER> électoral ne se A tre chose<ACT> qu'un supplément au journal la Croix</ACT>, et que le journal <PER>la Croix</PER> a dû l'envoyer à ses 1-et<LOC>-Gare La</LOC> dáns ce département — comme à ses abonnés de<ACT> toute la France</ACT>.",
+  "origin": "human",
+  "parent": 264,
+  "persons": [],
+  "text_ocr": "aurait été distribué. Eh bien, ce Catéchisme\nélectoral, je ne l'ai jamais vu, je ne le con-\nnais pas, je ne sais pas encore, à l'heure\nqu'il est, ce que c'est ; ce qui montre bien\nqu'il n'est pas vrai qu'il ait été distribué.\nEt, en effet, aucune protestation ne raconte\nque cette distribution ait été faite, ni où\nni par qui elle aurait été faite. Cependant,\nje me suis informé, et j'ai appris que ce\nCatéchisme électoral ne serait autre chose\nqu'un supplément au journal la Croix, et\nque le journal la Croix a dû l'envoyer à ses\nabonnés de Tarn-et-Garonne — s'il en a dans\nce département — comme à ses abonnés de\ntoute la France.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   428
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   804.0,
+   628.312218366108,
+   556.0,
+   157.57825673937964
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 346,
+  "ner_xml": "Il n'y a donc là rien de spécial ni au<ACT> département de Tarn-et-Garonne</ACT>, ni à l'é<ACT>-</ACT> le<ACT>ction</ACT> de <ACT>la 2e circonscription de</ACT> Montau<ACT>-</ACT> ban, ni au député élu dans cette circons- cription. C'est le fait d'un journal qui envoie son supplément à ses abonnés. Je me demande véritablement par quel raisonnement on peut me rendre respon- sable d'une pareille distribution que — je le dis à la Chambre en toute vérité — j'i- gnorais absolument et qui n'a été, je le ré- pète, signalée dans aucune protestation ; ce qui explique mon ignorance jusqu'à ces jours-ci, où j'ai appris qu'il en avait été parlé dans le bureau, sans que le bureau ni la sous-commission m'aient interrogé sur ce point.",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [],
+  "text_ocr": "Il n'y a donc là rien de spécial ni au\ndépartement de Tarn-et-Garonne, ni à l'é-\nlection de la 2e circonscription de Montau-\nban, ni au député élu dans cette circons-\ncription. C'est le fait d'un journal qui envoie\nson supplément à ses abonnés.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   706
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   800.6886567533938,
+   790.0,
+   565.3790529357002,
+   284.0
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 642,
+  "ner_xml": "",
+  "origin": "computer",
+  "persons": [],
+  "text": "",
+  "text_ocr": "Je me demande véritablement par quel\nraisonnement on peut me rendre respon-\nsable d'une pareille distribution que — je\nle dis à la Chambre en toute vérité — j'i-\ngnorais absolument et qui n'a été, je le ré-\npète, signalée dans aucune protestation ; ce\nqui explique mon ignorance jusqu'à ces\njours-ci, où j'ai appris qu'il en avait été\nparlé dans le bureau, sans que le bureau ni\nla sous-commission m'aient interrogé sur\nce point.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   932
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   832,
+   1076,
+   338,
+   24
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 347,
+  "ner_xml": "J'arrive aux <ACT>faits</ACT> <ACT>posit</ACT>ils.",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [],
+  "text_ocr": "J'arrive aux faits positifs.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1088
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   804,
+   1102,
+   556,
+   288
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 348,
+  "ner_xml": "On incrimine M. le <PER>curé de Montrico</PER>ux parce que les chantres auraient soutenu ma candidature. Est-ce qu'il y a là un fait qui puisse engager ma responsabilité? Il s'est trouvé par hasard, dans la commune de Montricoux, que quelqu'un des employés de l'église était l'agent habituel du candidat conservateur, et on l'a pris comme à l'ordi- naire ; voilà tout. M. le curé a été complète- ment étranger à tout cela,et je ne l'ai même pas vu pendant la période électorale.",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "curé de Montrico"
+  ],
+  "text_ocr": "On incrimine M. le curé de Montricoux\nparce que les chantres auraient soutenu\nma candidature. Est-ce qu'il y a là un fait\nqui puisse engager ma responsabilité? Il\ns'est trouvé par hasard, dans la commune\nde Montricoux, que quelqu'un des employés\nde l'église était l'agent habituel du candidat\nconservateur, et on l'a pris comme à l'ordi-\nnaire ; voilà tout. M. le curé a été complète-\nment étranger à tout cela,et je ne l'ai même\npas vu pendant la période électorale.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1246
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   806,
+   1390,
+   552,
+   130
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 349,
+  "ner_xml": "<PER>On</PER> accuse M. le <PER>curé de Servanac</PER> d'avoir, sur la route, changé des bulletins. Eh bien, voici la déclaration des électeurs de Serva- nac; elle est revêtue de vingt signatures lé- galisées :",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "On",
+   "curé de Servanac"
+  ],
+  "text_ocr": "On accuse M. le curé de Servanac d'avoir,\nsur la route, changé des bulletins. Eh bien,\nvoici la déclaration des électeurs de Serva-\nnac; elle est revêtue de vingt signatures lé-\ngalisées :",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1455
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   806,
+   1522,
+   552,
+   180
+  ],
+  "checked": true,
+  "comment": "seg quote",
+  "id": 350,
+  "ner_xml": "« <PER>Les soussignés, électeurs de Servanac</PER>, déclarent qu'étant restés sur la route qui conduit à l'école, où était situé le bureau de vote, ils n'ont pas vu M. le curé de Serva- nac distribuant des billets. De plus, ils ne l'ont vu que se rendre au scrutin pour vo- LeT. »",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "Les soussignés, électeurs de Servanac"
+  ],
+  "text_ocr": "« Les soussignés, électeurs de Servanac,\ndéclarent qu'étant restés sur la route qui\nconduit à l'école, où était situé le bureau de\nvote, ils n'ont pas vu M. le curé de Serva-\nnac distribuant des billets. De plus, ils ne\nl'ont vu que se rendre au scrutin pour vo-\nter. »",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1612
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   806,
+   1706,
+   552,
+   132
+  ],
+  "checked": true,
+  "comment": "u-end seg",
+  "id": 351,
+  "ner_xml": "Ainsi, non seulement ce <ACT>curé n a rien dit en chaire</ACT>, mais encore il est établi par vingt témoins, dont la signature est légalisée par le maire de leur commune, qu'il est resté chez lui pendant la journée.",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [],
+  "text_ocr": "Ainsi, non seulement ce curé n'a rien dit\nen chaire, mais encore il est établi par vingt\ntémoins, dont la signature est légalisée par\nle maire de leur commune, qu'il est resté\nchez lui pendant la journée.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1772
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   808,
+   1838,
+   550,
+   50
+  ],
+  "checked": true,
+  "comment": "u seg",
+  "id": 352,
+  "ner_xml": "<PER>M. Leygues</PER>. <PER>Ils</PER> ne l'ont pas vu ! voilà tout ce que cela prouve!",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "M. Leygues",
+   "Ils"
+  ],
+  "text_ocr": "M. Leygues. Ils ne l'ont pas vu ! voilà\ntout ce que cela prouve!",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1863
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   808.0,
+   1888.0,
+   550,
+   126
+  ],
+  "checked": true,
+  "comment": "u-beginning seg",
+  "id": 353,
+  "ner_xml": "<PER>M. Arnault</PER>. Ces <ACT>électeurs se trouvaient sur la route</ACT>, et ils déclarent que le <ACT>curé</ACT> n'est sorti que pour aller voter. Et, encore un coup, rienne lui est reproché dans l'exer- clée de se",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "M. Arnault"
+  ],
+  "text_ocr": "M. Arnault. Ces électeurs se trouvaient\nsur la route, et ils déclarent que le curé\nn'est sorti que pour aller voter. Et, encore\nun coup, rien ne lui est reproché dans l'exer-\nciée de son ministère.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   1951
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   811.9684770446453,
+   2017.0157614776772,
+   550,
+   180
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 354,
+  "ner_xml": "<PER>En</PER> ce qui concerne <PER>le curé de Saint-Pey- ronis,</PER> <ACT>qui est accusé d</ACT>'<ACT>avoir tenu des pro- pos injurieux pour mon adversaire</ACT>, j'ai ici une pièce que je recommande à l'attention de la Chambre ; elle verra à quelles calom- nies ces respectables ecclésiastiques ont été butte. E",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "En",
+   "le curé de Saint-Pey-\nronis,"
+  ],
+  "text_ocr": "En ce qui concerne le curé de Saint-Pey-\nronis, qui est accusé d'avoir tenu des pro-\npos injurieux pour mon adversaire, j'ai ici\nune pièce que je recommande à l'attention\nde la Chambre ; elle verra à quelles calom-\nnies ces respectables ecclésiastiques ont été\nen butte.",
+  "type": "ENTRY",
+  "key": [
+   1,
+   2107
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   803.4294828969837,
+   2205.285258551508,
+   550,
+   236
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 355,
+  "ner_xml": "On reproche à ce <ACT>curé des paroles gros- sières à l'adresse de M. Cambe ; or, mes- sieurs, savez-vous ce qui s'est passé, et ce qu'on se garde bien de dire</ACT> ? Le <ACT>juge de paix du</ACT> <PER>canton de Caylus</PER> a été chargé de faire une <ACT>enquête</ACT>, et voici, telles qu<ACT>'</ACT>elles ont été recueillies par le <ACT>greff</ACT>ier, les ré- ponses de M. l'abbé Solier, incriminé, à Pinterrogatoire du juge de paix :",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [
+   "canton de Caylus"
+  ],
+  "text_ocr": "On reproche à ce curé des paroles gros-\nsières à l'adresse de M. Cambe ; or, mes-\nsieurs, savez-vous ce qui s'est passé, et ce\nqu'on se garde bien de dire ? Le juge de\npaix du canton de Caylus a été chargé de\nfaire une enquête, et voici, telles qu'elles\nont été recueillies par le greffier, les ré-\nponses de M. l'abbé Solier, incriminé, à\nl'interrogatoire du juge de paix :",
+  "type": "ENTRY",
+  "key": [
+   1,
+   2323
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   804,
+   2442,
+   552,
+   104
+  ],
+  "checked": true,
+  "comment": "seg-beginning",
+  "id": 356,
+  "ner_xml": "\" Le 17 septembre, en effet, vers trois heures du soir, j'ai accepté de M. Cat un<ACT> journal de M. Cambe</ACT> et l'ai lu avec lui, sans donner aucune appréciation, quoique",
+  "origin": "computer",
+  "parent": 264,
+  "persons": [],
+  "text_ocr": "« Le 17 septembre, en effet, vers trois\nheures du soir, j'ai accepté de M. Cat un\njournal de M. Cambe et l'ai lu avec lui,\nsans donner aucune appréciation, quoique",
+  "type": "ENTRY",
+  "key": [
+   1,
+   2494
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1388.0,
+   230.0,
+   550,
+   160
+  ],
+  "checked": true,
+  "comment": "seg-end incident",
+  "id": 357,
+  "ner_xml": "<PER>je fusse provoqué par lui</PER>. Puis nous <ACT>avon causé d</ACT>'<ACT>affaires personnelles</ACT>, et je lui ai fait observer que les gens de la <ACT>paroisse</ACT> ne trouvaient pas joli qu'il vînt le dimanche exercer son métier de <ACT>châtreur de cochon</ACT>s.<PER> Rires et bruit</PER>.",
+  "origin": "human",
+  "parent": 267,
+  "persons": [
+   "je fusse provoqué par lui"
+  ],
+  "text_ocr": "je fusse provoqué par lui. Puis nous avon\ncausé d'affaires personnelles, et je lui ai fait\nobserver que les gens de la paroisse ne\ntrouvaient pas joli qu'il vînt le dimanche\nexercer son métier de châtreur de cochons. »\n(Rires et bruit.)",
+  "type": "ENTRY",
+  "key": [
+   2,
+   310
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1390,
+   384,
+   548,
+   84
+  ],
+  "checked": true,
+  "comment": "seg quote-beginning",
+  "id": 359,
+  "ner_xml": " « Je le lui ai dit amicalement et dans son intérêt, ajoutant que, s'il continuait, il s'ex- posait à perdre ses pratiques.",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "« Je le lui ai dit amicalement et dans son\nintérêt, ajoutant que, s'il continuait, il s'ex-\nposait à perdre ses pratiques.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   426
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1389.4921192611614,
+   464.0,
+   550.0,
+   185.29972361951616
+  ],
+  "checked": true,
+  "comment": "u-end seg quote-end",
+  "id": 360,
+  "ner_xml": "— « Quant aux accusations que j'aurais pro- férées contre le gouvernement, elles sont fausses : car je suis ses prescriptions com- me le doit faire tout bon citoyen, et je le regarde comme mon protecteur. Je respecte trop l'autorité pour me permettre des pro- pos injurieux ou <ACT>malveillant</ACT>s à son égard.\" M. Camille Pelletan. Hl est seul de son espèce dans le clergé, alors! (Rumeurs d I",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "« Quant aux accusations que j'aurais pro-\nférées contre le gouvernement, elles sont\nfausses : car je suis ses prescriptions com-\nme le doit faire tout bon citoyen, et je le\nregarde comme mon protecteur. Je respecte\ntrop l'autorité pour me permettre des pro-\npos injurieux ou malveillants à son égard. »\nM. Camille Pelletan. Hl est seul de son\nespèce dans le clergé, alors! (Rumeurs d\nI",
+  "type": "ENTRY",
+  "key": [
+   2,
+   556
+  ]
+ },
+ {
+  "activities": [],
+  "box": [
+   1388.0,
+   646.683465530974,
+   558.0,
+   77.55327972067232
+  ],
+  "checked": true,
+  "comment": "u seg incident",
+  "id": 643,
+  "ner_xml": "",
+  "origin": "computer",
+  "persons": [],
+  "text": "",
+  "text_ocr": "M. Camille Pelletan. Il est seul de son\nespèce dans le clergé, alors ! (Rumeurs à\ndroite.)",
+  "type": "ENTRY",
+  "key": [
+   2,
+   684
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1388,
+   724,
+   552,
+   160
+  ],
+  "checked": true,
+  "comment": "u-beginning seg",
+  "id": 361,
+  "ner_xml": "<PER>M. Arnault</PER>. « Pour l'<ACT>honnêteté et</ACT> l'ho<ACT>- n</ACT>orabilité de M. <PER>Cam</PER>be, j'ai toujours dit que M. <PER>Cam</PER>be est un honnête homme. Je n'ai prononcé les <ACT>expressions</ACT> ni de <ACT>« sale »,</ACT> ni <ACT>de « saligaud »,</ACT> ni rien d'approchant. Je le Iie formellement et absolument...",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "M. Arnault",
+   "Cam",
+   "Cam"
+  ],
+  "text_ocr": "M. Arnault. « Pour l'honnêteté et l'ho-\nnorabilité de M. Cambe, j'ai toujours dit\nque M. Cambe est un honnête homme. Je\nn'ai prononcé les expressions ni de « sale »,\nni de « saligaud », ni rien d'approchant. Je\nle nie formellement et absolument...",
+  "type": "ENTRY",
+  "key": [
+   2,
+   804
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1390,
+   882,
+   550,
+   134
+  ],
+  "checked": true,
+  "comment": "seg quote",
+  "id": 362,
+  "ner_xml": "« L'interrogatoire de M. le juge de paix m'a fort étonné, car je fais bien peu de po-<ACT> lit</ACT>ique. Dans six ans de ministère j'ai pris un seul abonnement de trois mois à un journal.»",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "« L'interrogatoire de M. le juge de paix\nm'a fort étonné, car je fais bien peu de po-\nlitique. Dans six ans de ministère j'ai pris\nun seul abonnement de trois mois à un\njournal. »",
+  "type": "ENTRY",
+  "key": [
+   2,
+   949
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1390.0,
+   1014.0,
+   550,
+   108
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 363,
+  "ner_xml": "Voilà la déclaration qui a été faite au juge de paix par le curé incriminé, dans l'en- quête qui a été ordonnée je ne sais par qui et conduite par ce magistrat.",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "Voilà la déclaration qui a été faite au juge\nde paix par le curé incriminé, dans l'en-\nquête qui a été ordonnée je ne sais par qui\net conduite par ce magistrat.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1068
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "Bruit a gauche",
+    "street_numbers": []
+   }
+  ],
+  "box": [
+   1416,
+   1124,
+   374,
+   24
+  ],
+  "checked": true,
+  "comment": "seg incident",
+  "id": 364,
+  "ner_xml": "<PER>Je continue</PER>. (<LOC>Bruit a gauche</LOC>.",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "Je continue"
+  ],
+  "text_ocr": "Je continue. (Bruit à gauche.)",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1136
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "messieurs",
+    "street_numbers": []
+   }
+  ],
+  "box": [
+   1420,
+   1150,
+   284,
+   24
+  ],
+  "checked": true,
+  "comment": "u-end seg",
+  "id": 365,
+  "ner_xml": "<PER>Permettez</PER>, <LOC>messieurs</LOC>",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "Permettez"
+  ],
+  "text_ocr": "Permettez, messieurs!",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1162
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1416.0,
+   1174.8013973129252,
+   306.0,
+   24.0
+  ],
+  "checked": true,
+  "comment": "u seg",
+  "id": 366,
+  "ner_xml": "A droite. Parlez! parlez",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "A droite. Parlez! parlez!",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1186
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1418,
+   1202,
+   422,
+   26
+  ],
+  "checked": true,
+  "comment": "u seg",
+  "id": 367,
+  "ner_xml": "M. <PER>Freppe</PER>l. Allez jusqu'au bout",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "Freppe"
+  ],
+  "text_ocr": "M. Freppel. Allez jusqu'au bout!",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1215
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1387.8966906019082,
+   1220.0,
+   548,
+   88
+  ],
+  "checked": true,
+  "comment": "u-beginning seg incident",
+  "id": 368,
+  "ner_xml": "<PER> M. Arnault</PER>. <ACT>Messieurs, permettez-moi de faire justice à la tribune des calomnies qui ont été répandue</ACT>s. (Parlez! parles!",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "M. Arnault"
+  ],
+  "text_ocr": "M. Arnault. Messieurs, permettez-moi\nde faire justice à la tribune des calomnies\nqui ont été répandues. (Parlez! parlez!)",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1264
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1390.0,
+   1304.5078807388388,
+   548,
+   126
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 369,
+  "ner_xml": "On a dit que le <ACT>curé de la paroisse de Chouastrac, dans la commune de Vai</ACT>ssac, avait déclaré, le dimanche avant les élec- tions, qu'il irait dans les maisons, et qu'il y",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "On a dit que le curé de la paroisse de\nChouastrac, dans la commune de Vaissac,\navait déclaré, le dimanche avant les élec-\ntions, qu'il irait dans les maisons, et qu'il y\nétait allé.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1367
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1390,
+   1434,
+   548,
+   130
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 370,
+  "ner_xml": "<PER>Eh bien</PER>, voici <ACT>une attestation</ACT> qui <ACT>porte 26 signatures</ACT>. Remarquez-le, messieurs, <CARDINAL>26</CARDINAL> signatures pour une <ACT>petite paroisse de quatre cents âmes</ACT>, qui n'est qu'une section de commune ;",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "Eh bien"
+  ],
+  "text_ocr": "Eh bien, voici une attestation qui porte\n26 signatures. Remarquez-le, messieurs, 26\nsignatures pour une petite paroisse de\nquatre cents âmes, qui n'est qu'une section\nde commune:",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1499
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1388,
+   1564,
+   550,
+   320
+  ],
+  "checked": true,
+  "comment": "seg incident",
+  "id": 371,
+  "ner_xml": "« <PER>Les soussignés</PER>, <ACT>tous électeurs de la commune de Vaissac et habitant la pa- roisse de Chouastrac, protestent énergique- ment contre les mensonges et les calom- nies répandues contre M. le curé de Chouas- trac, et</ACT> affirment sur <ACT>l'honneur</ACT> que M. le<ACT> curé</ACT> ne <ACT>s'est nullement occupé des der- nières élections</ACT> législatives. Il n'<ACT>a</ACT> parlé à personne à propos des élections ; il n<ACT>'</ACT>a dit en chaire que ce peu de mots : « Dieu pro- tège la France, notre chère patrie! C<ACT>'</ACT>est sur les pièces de 5 francs. »(On rit.)",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [
+   "Les soussignés"
+  ],
+  "text_ocr": "« Les soussignés, tous électeurs de la\ncommune de Vaissac et habitant la pa-\nroisse de Chouastrac, protestent énergique-\nment contre les mensonges et les calom-\nnies répandues contre M. le curé de Chouas-\ntrac, et affirment sur l'honneur que M. le\ncuré ne s'est nullement occupé des der-\nnières élections législatives. Il n'a parlé à\npersonne à propos des élections ; il n'a dit\nen chaire que ce peu de mots : « Dieu pro-\ntège la France, notre chère patrie! C'est\nsur les pièces de 5 francs. » (On rit.)",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1724
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1416,
+   1884,
+   398,
+   24
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 372,
+  "ner_xml": "Ecoutez bien ceci, messieurs",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "Ecoutez bien ceci, messieurs!",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1896
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1389.051654699046,
+   1902.1717886496485,
+   550.0,
+   137.14524402652955
+  ],
+  "checked": true,
+  "comment": "seg quote-beginning",
+  "id": 373,
+  "ner_xml": "— « Il n'<ACT>a pas voté</ACT>, ne se trouvant pas sur la<ACT> liste électorale</ACT>. Bien plus, poussant la dis- crétion jusqu'à l'excès, le jour de l'élection; après sa <ACT>messe</ACT> dite, il quitta le pays; —",
+  "origin": "human",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "« Il n'a pas voté, ne se trouvant pas sur la\nliste électorale. Bien plus, poussant la dis-\ncrétion jusqu'à l'excès, le jour de l'élection,\naprès sa messe dite, il quitta le pays; il\nn'est même pas resté sur le lieu du vote.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   1970
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1388.0,
+   2039.5871217439849,
+   558.5290405813284,
+   314.4128782560151
+  ],
+  "checked": true,
+  "comment": "seg quote-end",
+  "id": 376,
+  "ner_xml": "n'est même pas resté sur le lieu du vote. « Le second dimanche, <ACT>connaissant les bruits aussi absurdes que mensongers que l</ACT>'<ACT>on répand</ACT>ait, après les avoir qualitiés comme ils le méritaient dans un moment d'indignation bien légitime, il somma ceux auxquels il aurait dit un mot de se lever et de le dire, et mit ses ennemis en demeure de citer un fait, aussi <ACT>minime</ACT> qu'<ACT>il fût,</ACT> ou une seule parole, qui pût lui être repro- chée. Personne ne bouge et, depuis, per- sonne n'en a publiquement parlé à Chouas- tTaČ.»",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "« Le second dimanche, connaissant les\nbruits aussi absurdes que mensongers que\nl'on répandait, après les avoir qualitiés\ncomme ils le méritaient dans un moment\nd'indignation bien légitime, il somma ceux\nauxquels il aurait dit un mot de se lever et\nde le dire, et mit ses ennemis en demeure\nde citer un fait, aussi minime qu'il fût, ou\nune seule parole, qui pût lui être repro-\nchée. Personne ne bouge et, depuis, per-\nsonne n'en a publiquement parlé à Chouas-\ntrac.»",
+  "type": "ENTRY",
+  "key": [
+   2,
+   2196
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [],
+  "box": [
+   1386,
+   2348,
+   550,
+   164
+  ],
+  "checked": true,
+  "comment": "seg",
+  "id": 377,
+  "ner_xml": "— Cette déclaration est signée par tous les<ACT> conseillers municipaux</ACT> et par 26 électeurs; les signatures sont légalisées par le maire. Ainsi, voilà un curé qui, lui aussi, a été calomnié; il ne s'est en rien occupé des elections.",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "Cette déclaration est signée par tous les\nconseillers municipaux et par 26 électeurs;\nles signatures sont légalisées par le maire.\nAinsi, voilà un curé qui, lui aussi, a été\ncalomnié; il ne s'est en rien occupé des\nelections.",
+  "type": "ENTRY",
+  "key": [
+   2,
+   2430
+  ]
+ },
+ {
+  "activities": [],
+  "addresses": [
+   {
+    "street_name": "Sailla",
+    "street_numbers": []
+   }
+  ],
+  "box": [
+   1412,
+   2506,
+   522,
+   36
+  ],
+  "checked": true,
+  "comment": "seg-beginning",
+  "id": 378,
+  "ner_xml": " Je continue, et j'arrive au <ACT>curé</ACT> de <LOC>Sailla</LOC>-",
+  "origin": "computer",
+  "parent": 267,
+  "persons": [],
+  "text_ocr": "Je continue, et j'arrive au curé de Sailla-",
+  "type": "ENTRY",
+  "key": [
+   2,
+   2524
+  ]
+ }
+]

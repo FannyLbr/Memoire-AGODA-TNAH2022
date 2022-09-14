@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="agoda_schema.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="agoda_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:id="FR_3R_5L" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main" xml:lang="fr">Corpus des débats parlementaires français de la
+                    Troisième République</title>
+                <title type="main" xml:lang="en">Corpus of French Parliamentary Debates of the Third
+                    Republic</title>
+                <title type="sub" xml:lang="fr">Comptes-rendus des débats en séance publique de la
+                    Chambre des députés, 5e législature (1889-1893)</title>
+                <title type="sub" xml:lang="en">Proceedings of the debates in plenary sitting of the
+                    Chamber of Deputies,5th legislature (1889-1893)</title>
+                <!-- @n correspond au numéro de la législature, à garder ? -> @corresp indique l'organe gouvernemental (corresp="#PO717460"), @ana pointe vers 3 taxonomies (chambre basse, législature, def de la législature)(ana="#parla.lower #parla.term") -->
+                <meeting n="5-lower" ana="#parla.lower #parla.term">5e législature</meeting>
+                <respStmt>
+                    <persName>Fanny Lebreton</persName>
+                    <persName>Marie Puren</persName>
+                    <persName>Pierre Vernus</persName>
+                    <resp xml:lang="fr">Encodage du corpus en XML-TEI</resp>
+                    <resp xml:lang="en">TEI XML corpus encoding</resp>
+                </respStmt>
+                <funder>
+                    <orgName xml:lang="fr">Bibliothèque nationale de France</orgName>
+                    <orgName xml:lang="en">National Library of France</orgName>
+                </funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>1.0</edition>
+            </editionStmt>
+            <!-- Donne infos sur la taille du corpus À renseigner à la toute fin du processus. Ex : -->
+            <!--<extent>                          <measure unit="utterances" quantity="481604" xml:lang="en">481,604 utterances</measure>             <measure unit="words" quantity="32732720" xml:lang="en">32,732,720 words</measure>             <measure unit="utterances" quantity="481604" xml:lang="fr">481 604 interventions</measure>             <measure unit="words" quantity="32732720" xml:lang="fr">32 732 720 mots</measure>                       </extent>-->
+            <publicationStmt>
+                <publisher>AGODA</publisher>
+                <authority>Bnf DataLab</authority>
+                <availability status="restricted" n="cc-by">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+                </availability>
+                <!-- Date de parution à ajouter en fonction de la date de production du fichier -->
+                <date when="2022-06-03"/>
+                <!-- <distributor>AGODA Github repository</distributor>/> -->
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Journal officiel de la République française. Débats parlementaires.
+                            Chambre des députés : compte rendu in-extenso</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher xml:lang="fr">Pas d'information disponible</publisher>
+                        <publisher xml:lang="en">No information available</publisher>
+                        <pubPlace>
+                            <location>
+                                <country key="FR"/>
+                                <settlement type="city">Paris</settlement>
+                            </location>
+                        </pubPlace>
+                        <date from="1889-11-13" to="1893-07-23">13 novembre 1889 - 23 juillet
+                            1893</date>
+                        <distributor facs="https://gallica.bnf.fr/ark:/12148/bpt6k477552f/f1">Source
+                            gallica.bnf.fr / Bibliothèque nationale de France</distributor>
+                        <availability>
+                            <licence
+                                target="https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica">
+                                <p>Les contenus accessibles sur le site Gallica sont pour la plupart
+                                    des reproductions numériques d'œuvres tombées dans le domaine
+                                    public provenant des collections de la BnF.</p>
+                                <p>Ces contenus sont considérés, en vertu du code des relations
+                                    entre le public et l’administration, comme étant des
+                                    informations publiques et leur réutilisation s'inscrit dans le
+                                    cadre des dispositions prévues aux articles L. 321-1 à L. 327-1
+                                    de ce code.</p>
+                            </licence>
+                        </availability>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title>Journal Officiel de la République française</title>
+                        <biblScope unit="series">Débats parlementaires</biblScope>
+                        <biblScope unit="volume">Chambre des députés</biblScope>
+                        <idno type="ISSN">1270-5942</idno>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p xml:lang="fr"><ref
+                        target="https://www.bnf.fr/fr/les-projets-de-recherche#bnf-agoda"
+                        >AGODA</ref> est un projet qui a pour objectif rendre disponible au format
+                    XML-TEI les textes de débats parlementaires à la Chambre des députés au cours de
+                    la Troisième République, suivant l'<ref
+                        target="https://github.com/mpuren/agoda/blob/ODD/documentation/agoda_odd.xml"
+                        >ODD</ref> défini pour le projet à partir des <ref
+                        target="https://github.com/clarin-eric/parla-clarin">recommandations
+                        produites par Parla-CLARIN</ref>. Dans une optique de preuve de concept, la
+                    phase 1 du projet AGODA se concentre plus particulièrement sur la 5ème
+                    législature (1889-1893). Les textes encodés sont d'abord extraits des documents
+                    numérisés disponibles sur <ref
+                        target="https://gallica.bnf.fr/ark:/12148/cb328020951/date.item"
+                        >Gallica</ref>, la bibliothèque numérique de la Biliothèque nationale de
+                    France, puis ils sont convertis en XML-TEI au moyen de scripts Python.</p>
+                <p xml:lang="en">is a project that aims to make available in XML-TEI format the
+                    texts of parliamentary debates in the Chamber of Deputies during the Third
+                    Republic, following the <ref
+                        target="https://github.com/mpuren/agoda/blob/ODD/documentation/agoda_odd.xml"
+                        >ODD</ref> defined for the project from the <ref
+                        target="https://github.com/clarin-eric/parla-clarin">Parla-CLARIN
+                        recommendations</ref>. From a proof-of-concept perspective, phase 1 of the
+                    AGODA project focuses more specifically on the 5th legislature (1889-1893). The
+                    encoded texts are first extracted from the digitised documents available on <ref
+                        target="https://gallica.bnf.fr/ark:/12148/cb328020951/date.item"
+                        >Gallica</ref>, the digital library of the Biliothèque nationale de France,
+                    then they are converted into XML-TEI using Python scripts.</p>
+            </projectDesc>
+            <!-- Précisions sur les pratiques et les principes éditoriaux appliqués au cours de l’encodage du texte. Plusieurs dimensions prises en compte : -->
+            <editorialDecl>
+                <!-- Corrections apportées au texte. Ex : -->
+                <correction>
+                    <p xml:lang="fr"/>
+                    <p xml:lang="en">No correction of source texts was performed.</p>
+                </correction>
+                <!--<!-\- Normalisation effectuée sur le texte source dans sa conversion vers sa forme électronique. Ex : -\->             <normalization>                <p xml:lang="fr"></p>                <p xml:lang="en">Text has not been normalised, except for spacing.</p>             </normalization>-->
+                <!-- Résume la façon dont les traits d'union sécants de fin de ligne d’un texte source ont été traités dans sa version encodée. Ex :              <hyphenation>                <p xml:lang="fr"/>                <p xml:lang="en">No end-of-line hyphens were present in the source.</p>             </hyphenation>-->
+                <!-- Décrit la pratique éditoriale adoptée par rapport aux guillements dans l’original. Ex : -->
+                <quotation>
+                    <p xml:lang="fr"/>
+                    <p xml:lang="en">Quotation marks have been left in the text and are not
+                        explicitly marked up.</p>
+                </quotation>
+                <!-- Décrit les principes selon lesquels le texte a été segmenté. Ex : -->
+                <segmentation>
+                    <p xml:lang="fr"/>
+                    <p xml:lang="en">The texts are segmented into utterances (speeches) and segments
+                        (corresponding to paragraphs in the source transcription).</p>
+                </segmentation>
+            </editorialDecl>
+            <appInfo>
+                <application ident="outil-soduco" version="1">
+                    <label>Outil Soduco</label>
+                    <desc>Application utiliser pour océriser les textes</desc>
+                </application>
+            </appInfo>
+            <appInfo>
+                <application ident="python" version="3.10.4">
+                    <label>Python</label>
+                    <desc>Language utilisé pour baliser automatiquement le document en
+                        XML-TEI</desc>
+                </application>
+            </appInfo>
+            <!-- Donne l’information détaillée sur le balisage appliqué à un document -->
+            <tagsDecl>
+                <!-- Compte des balises utilisées pour le corpus entier. À renseigner à la toute fin du processus. Ex : -->
+                <!--<namespace name="http://www.tei-c.org/ns/1.0">                <tagUsage gi="body" occurs="1"/>                <tagUsage gi="desc" occurs="188"/>                <tagUsage gi="div" occurs="3"/>                <tagUsage gi="head" occurs="3"/>                <tagUsage gi="incident" occurs="18"/>                <tagUsage gi="note" occurs="3"/>                <tagUsage gi="seg" occurs="595"/>                <tagUsage gi="u" occurs="256"/>             </namespace>-->
+            </tagsDecl>
+            <classDecl>
+                <taxonomy xml:id="parla.legislature">
+                    <desc xml:lang="fr"><term>Législature</term></desc>
+                    <desc xml:lang="en"><term>Legislature</term></desc>
+                    <category xml:id="parla.organization">
+                        <catDesc xml:lang="fr"><term>Organisation</term></catDesc>
+                        <catDesc xml:lang="en"><term>Organization</term></catDesc>
+                        <category xml:id="parla.chambers">
+                            <catDesc xml:lang="fr"><term>Chambres</term></catDesc>
+                            <catDesc xml:lang="en"><term>Chambers</term></catDesc>
+                            <category xml:id="parla.bi">
+                                <catDesc xml:lang="fr"><term>Bicaméralisme</term></catDesc>
+                                <catDesc xml:lang="en"><term>Bicameralism</term></catDesc>
+                                <category xml:id="parla.upper">
+                                    <catDesc xml:lang="fr"><term>Chambre haute</term></catDesc>
+                                    <catDesc xml:lang="en"><term>Upper house</term></catDesc>
+                                </category>
+                                <category xml:id="parla.lower">
+                                    <catDesc xml:lang="fr"><term>Chambre basse</term></catDesc>
+                                    <catDesc xml:lang="en"><term>Lower house</term></catDesc>
+                                </category>
+                            </category>
+                        </category>
+                        <category xml:id="parla.term">
+                            <catDesc xml:lang="fr"><term>Période législative</term></catDesc>
+                            <catDesc xml:lang="en"><term>Legislative period</term>: term of the
+                                parliament between general elections.</catDesc>
+                            <category xml:id="parla.session">
+                                <catDesc xml:lang="fr"><term>Session parlementaire</term></catDesc>
+                                <catDesc xml:lang="en"><term>Legislative session</term>: the period
+                                    of time in which a legislature is convened for purpose of
+                                    lawmaking, usually being one of two or more smaller divisions of
+                                    the entire time between two elections. A session is a meeting or
+                                    series of connected meetings devoted to a single order of
+                                    business, program, agenda, or announced purpose.</catDesc>
+                                <category xml:id="parla.meeting">
+                                    <catDesc xml:lang="fr"><term>Réunion</term></catDesc>
+                                    <catDesc xml:lang="en"><term>Meeting</term>: Each meeting may be
+                                        a separate session or part of a group of meetings
+                                        constituting a session. The session/meeting may take one or
+                                        more days.</catDesc>
+                                    <category xml:id="parla.sitting">
+                                        <catDesc xml:lang="fr"><term>Séance</term></catDesc>
+                                        <catDesc xml:lang="en"><term>Sitting</term>: sitting
+                                            day</catDesc>
+                                    </category>
+                                </category>
+                            </category>
+                        </category>
+                    </category>
+                </taxonomy>
+                <taxonomy xml:id="speaker_types">
+                    <desc xml:lang="fr"><term>Types d'orateurs</term></desc>
+                    <desc xml:lang="en"><term>Types of speakers</term></desc>
+                    <category xml:id="chair">
+                        <catDesc xml:lang="fr"><term>Président</term>: président de séance</catDesc>
+                        <catDesc xml:lang="en"><term>Chairperson</term>: chairman of a
+                            meeting</catDesc>
+                    </category>
+                    <category xml:id="speaker">
+                        <catDesc xml:lang="fr"><term>Orateur</term>: orateur en séance</catDesc>
+                        <catDesc xml:lang="en"><term>Regular</term>: a regular speaker at a
+                            meeting</catDesc>
+                    </category>
+                    <category xml:id="guest">
+                        <catDesc xml:lang="fr"><term>Invité</term>: invité en séance</catDesc>
+                        <catDesc xml:lang="en"><term>Guest</term>: a guest speaker at a
+                            meeting</catDesc>
+                    </category>
+                    <category xml:id="government">
+                        <catDesc xml:lang="fr"><term>Gouvernement</term>: membre du gouvernement
+                            invité en séance</catDesc>
+                        <catDesc xml:lang="en"><term>Government</term>: member of government invited
+                            at a meeting</catDesc>
+                    </category>
+                    <!-- Modification de la définition de "unknown"-->
+                    <category xml:id="unknown">
+                        <catDesc xml:lang="fr"><term>Orateur inconnu</term>: orateur non
+                            identifié</catDesc>
+                        <catDesc xml:lang="en"><term>Unknown speaker</term>: unidentified
+                            speaker</catDesc>
+                    </category>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr" xml:lang="fr">français</language>
+                <language ident="en" xml:lang="fr">anglais</language>
+                <language ident="fr" xml:lang="en">Français</language>
+                <language ident="en" xml:lang="en">English</language>
+            </langUsage>
+            <settingDesc>
+                <setting>
+                    <name type="place">Palais Bourbon</name>
+                    <name type="city">Paris</name>
+                    <name type="country" key="FR">France</name>
+                    <date from="1889-11-12" to="1893-07-22">12 novembre 1889 - 22 juillet
+                        1893</date>
+                </setting>
+            </settingDesc>
+            <textClass>
+                <catRef scheme="#parla.legislature" target="#parla.bi #parla.lower"/>
+            </textClass>
+            <particDesc>
+                <!-- Description des participants : orateurs + institutions/ partis politiques -->
+                <listPerson>
+                    <!-- valeur du @xml-id : FR pour France, DEP pour députés et numéro du député dans la Base de données de députés. -->
+                    <person xml:id="FR-DEP-1844">
+                        <persName>
+                            <forename>Georges</forename>
+                            <surname>Clémenceau</surname>
+                        </persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <!--<particDesc>                <listPerson>                                <person xml:id="PD_2409">                                      <persName>                      <forename>Paul</forename>                      <surname>Déroulède</surname>                   </persName>                                      <sex value="M">M.</sex>                                      <birth when="1846-09-02">                      <placeName>Paris</placeName>                   </birth>                                      <death when="1914-01-31">                      <placeName>Nice</placeName>                   </death>                                      <occupation xml:lang="fr">Militant politique</occupation>                                      <!-\- Pour les orateurs qui sont députés ou membres de partis politiques : il faut mettre l'élément < affiliation > -\->                   <!-\- Description non formalisée portant sur l'affiliation présente ou passée d'une personne à une organisation -\->                   <!-\- @role donne le role à l'aide d'un vocabulaire contrôlé, @ref désigne l'organisation/ ou le parti dans laquelle/lequel la personne joue un rôle (très souvent l'Assemblée pour notre cas), @ana renvoie à la période pendant laquelle il était rattaché à l'organisation/ parti -\->                   <!-\-<affiliation role="aaa" ref="#aaa" from="1889-08-01" to="1890-06-21" ana="#aaa"/>-\->                                      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/...</idno>                                      <!-\- Possibilité d'associer une image -\->                   <!-\-<figure>                      <graphic url="https://api.parliament.uk/photo/Paa3j0vS.jpg?crop=CU_1:1"/>                   </figure>-\->                                   </person>                                <person xml:id="pers_ID">                   <persName>...</persName>                </person>                             </listPerson>                          <!-\- Liste des organisations -\->             <listOrg>                                <org xml:id="org_ID" role="aaa" xml:lang="fr">                   <!-\- @full permet de dire s'il s'agit d'un composant écrit en toutes lettres, sous une forme abrégée ou avec les initiales -\->                   <orgName full="yes"></orgName>                                      <!-\- Données liées à tout type d'évènement significatif dans l'existence d'une personne, d'un lieu ou d'une organisation. Ex : -\->                   <event from="2011-10-22">                      <label xml:lang="en">existence</label>                   </event>                                      <idno type="wikimedia">https://en.wikipedia.org/...</idno>                </org>                                <!-\-<!-\\- Possibilité de mettre une liste des relations entre les organisations -\\->                <listRelation>                                      <relation name="aaa" mutual="#aaa #aaa #aaa #aaa" from="2014-10-11" to="2018-12-09" ana="#period_54"/>                   <relation name="bbb" active="#bbb #bbb" passive="#bbb" from="2014-10-11" to="2018-12-09" ana="#bbb"/>                                   </listRelation>-\->             </listOrg>                       </particDesc>-->
+        </profileDesc>
+    </teiHeader>
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="FR_3R_5L_1889-11-26.xml"/>
+</teiCorpus>
