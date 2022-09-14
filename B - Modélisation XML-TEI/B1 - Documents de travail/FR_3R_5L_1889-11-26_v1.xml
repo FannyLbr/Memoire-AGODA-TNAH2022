@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+
+      <!-- Quelle numérotation faire pour les pages ? Garder la numérotation du journal, ou créer notre propre numérotation ? -->
+      <pb n="1"/>
+      <!-- Numéroter les colonnes ? -->
+      <cb n="1"/>
+      
+      
+      <!-- Ou insérer cette phrase : "Journal officiel du 27 novembre 1889 CHAMBRE DES DÉPUTÉS — SÉANCE DU 26 NOVEMBRE 1889 Session extraordinaire de 1889 ?" -->
+      <!-- Pagination du journal à garder ? "175" -->
+      
+      <front>
+         <!-- Ou possitionner les lb ? -->
+         
+         <!-- Quelle solution choisir ? -->
+         <!-- Solution 1 -->
+         <head><lb/>CHAMBRE DES DÉPUTÉS</head>
+         <note><lb/>5e législature. — Session extraordinaire de 1889.</note>
+         <docTitle>
+            
+            <titlePart type="main"><lb/>COMPTE RENDU IN EXTENSO. — <num>10</num>e SÉANCE</titlePart>
+            <titlePart type="sub"><lb/>Séance du <date>mardi 26 novembre</date>.</titlePart>
+         </docTitle>
+         
+         <!-- Solution 2 -->
+         <div type="preface">
+            
+            <lb/><head>COMPTE RENDU IN EXTENSO. — <num>10</num>e SÉANCE</head>
+            <lb/><note>Séance du <date>mardi 26 novembre</date>.</note>
+         </div>
+         
+         <!-- Solution 3 -->
+         <!--<head>
+            CHAMBRE DES DÉPUTÉS
+            <note>5e législature. — Session extraordinaire de 1889.</note>
+         </head>
+         
+         <docTitle>
+            <titlePart type="main">COMPTE RENDU IN EXTENSO. — <num>10</num>e SÉANCE</titlePart>
+            <titlePart type="sub">Séance du <date>mardi 26 novembre</date>.</titlePart>
+         </docTitle>-->                  
+         
+      </front>
+      
+      
+      
+      
+      
+      <body>
+         
+         <div type="sommaire">
+            <!-- Laisser les titres en majuscules ou les mettre en minuscules ? (balisage pour dire que ce sont des majuscules ?) -->
+            <head>SOMMAIRE</head>
+            <list>
+               <!-- choisir les valeurs des xml:id des item -->
+               <item xml:id="pv">
+                  <lb/>Procès verbal : MM. <persName>Paul Dérouiède</persName>, <persName>Georges
+                  <lb/>Laguerre</persName>, <persName>Briens</persName>, <persName>Bizouard-Bert</persName>, <persName>Vernière</persName>.
+               </item>
+               
+               <item>
+                  <lb/>Excuses et demandes de congé.
+               </item>
+               
+               <item>
+                  <lb/>Communication d'une lettre de M. le ministre
+                  <lb/>des finances relative à la nomination d'un
+                  <lb/>membre de la commission de contrôle de la
+                  <lb/>circulation monétaire.
+               </item>
+               
+               <item>
+                  <lb/>Rapports d'élections par MM. <persName>Reybert</persName>, le comte
+                  <lb/><persName>Le Gonidee de Traissan</persName>, <persName>Delaunay</persName>.
+               </item>
+               
+               <item>
+                  <lb/>Discussion des conclusions du rapport du 7e bu-
+                  <lb/>reau sur l'élection de M. <persName>Dillon</persName> dans ladre cir-
+                  <lb/>conscription de l'arrondissement de Lorient
+                  <lb/>(Morbihan). — Demande d'ajournement : MM.
+                  <lb/>Georges Laguerre, le comte Lemercier, rap-
+                  <lb/>porteur. Rejet. — Discussion : MM. Cuneo
+                  <lb/>d'Ornano, le comte Lemercier, rapporteur, le
+                  <lb/>comte de Douville-Maillefeu, Georges Laguerre.
+                  <lb/>Adoption, au scrutin, des conclusions du bu-
+                  <lb/>reau et annulation de l'élection.
+               </item>
+               
+               <item>
+                  <lb/>Discussion des conclusions du rapport du 10e
+                  <lb/>bureau sur l'élection de M. Arnault dans la 2e
+                  <lb/>circonscription de Montauban (Tarn-et-Ga-
+                  <lb/>ronne) : MM. Leygues, Arnault. — Demande,
+                  <lb/>par M. Leygues, d'invalidation de l'élection.
+                  <lb/>Adoption au scrutin.
+               </item>
+               
+               <item>
+                  <lb/>Dépôt par M. de Soland et plusieurs de ses col-
+                  <lb/>lègues, d'une proposition de loi ayant pour
+                  <lb/>objet de frapper d'un droit de douane, à leur
+                  <lb/>entrée en France, les chanvres bruts où pré-
+                  <lb/>parés provenant de l'étranger.
+               </item>
+               
+               <item>
+                  <lb/>Dépôt, par M. le marquis de La Ferronnays et
+                  <lb/>plusieurs de ses collègues, d'une proposition
+                  <lb/>de résolution tendant à la nomination d'une
+                  <lb/>commission de onze membres à l'effet de
+                  <lb/>réviser, s'il y a lieu, le régime légal et admi-
+                  <lb/>nistratif en vigueur pour la protection du vi-
+                  <lb/>gnoble français contre le phylloxera.
+               </item>
+               
+               <item>
+                  Congés.
+               </item>
+            </list>
+         </div>
+         
+         <!-- Nouvelle partie, définir un @corresp pour la div reliant la partie avec l'xml:id de l'item du sommaire -->
+         <!-- Définir les @who @ana pour les u -->
+         <div corresp="#pv">
+            <!-- Où placer les lb ? -->
+            <lb/><head>Présidence de M. Charles Floquet</head>
+            
+            
+            <!-- Description temporelle -->
+            <lb/><note type="ouverture">La séance est ouverte à deux heures.</note>
+            
+            
+            <!-- Description du déroulé, ce n'est pas une prise de parole, faut-il faire plutôt une note ? -->
+            <lb/><u who="#pv" ana="secrétaire">,<roleName>l'un des secrétaires</roleName>,
+               <seg>
+                  <lb/>donne lecture du procès-verbal de la séance 
+                  <lb/>d'hier.
+               </seg>
+            </u>
+            
+            
+            <!-- D.Direct -->
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Je demande la parole.
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Vous avez la parole.
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Messieurs, j'ai de- 
+                  <lb/>mandé la parole pour faire une rectification 
+                  <lb/>au procès-verbal et pour m'expliquer au 
+                  <lb/>sujet du rappel à l'ordre qui m'a été infligé.
+               </seg>
+               <seg>
+                  <lb/>La plus importante des rectifications con- 
+                  <lb/>cerne le procès-verbal. En effet, au mo- 
+                  <lb/>ment où la Chambre s'est prononcée en 
+                  <lb/>majorité en faveur de la validation d’un de
+                  <lb/>nos collègues de l'Ardèche, ni mes amis ni 
+                  <lb/>moi n'avons applaudi au succès de telle ou 
+                  <lb/>telle candidature représentant telle ou telle 
+                  <lb/>opinion ; ni mes amis ni moi n’avons même
+                  <lb/>applaudi à la défaite de ce que j'appellerai le 
+                  <lb/>groupe des invalideurs. <incident><desc>(Bruit à gauche.)</desc></incident>
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Ce n'est pas une rectifica- 
+                  <lb/>ion.
+               </seg>
+            </u>
+            
+            <!-- "Voix au centre", qu'est-ce qu'on pourra mettre dans @who ? -->
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  M. <persName>Paul Déroulède</persName>. Mes amis et moi 
+                  <lb/>avons applaudi à ce que nous avons cru, à 
+                  <lb/>ce que nous croyons encore être la forma- 
+                  <lb/>tion spontanée d'une majorité de con- 
+                  <lb/>science, de justice, de tolérance et d'union.
+                  <lb/><incident><desc>(Applaudissements sur quelques bancs à l'ex-
+                  <!-- Pas de lb possible dans incident --> trémité gauche de La salle. — Exclamations 
+                  <!-- Pas de lb possible dans incident --> au centre et à gauche.)</desc></incident>
+               </seg>
+                  
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  <persName>Gustave Rivet</persName>. La tolérance pour 
+                  <lb/>toutes Les ignominies qui ont été commises 
+                  <lb/>Pendant la période électorale.
+               </seg>
+            </u>
+            
+            <!-- Changement de colonne -->
+            <cb n="2"/>
+            
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Le procès-verbal
+                  <lb/>attribue à notre groupe et à moi des pa-
+                  <lb/>roles qu'aucun de nous n’a prononcées. Je
+                  <lb/>n'ai jamais dit au sujet de cette validation 
+                  <lb/>ce que me fait dire le <!-- En italique, comment le représenter ? --> Journal officiel : 
+                  <lb/> <!-- Comment baliser les citations ? -->« Oui, nous les validerons tous ! »
+               </seg>
+               <seg>
+                  <lb/>Le secrétaire sténographe qui m'a prêté
+                  <lb/>ces paroles m'a sans doute pris pour quel-
+                  <lb/>qu'un des membres de cette majorité mi-
+                  <lb/>nistérielle qui peut tout ce qu’elle veut.
+                  <lb/><incident><desc>(Bruit.)</desc></incident> Nous ne sommes, nous, qu'une mi-
+                  <lb/>norité...
+               </seg>
+            </u>
+            
+            <!-- "Un membre au centre", qu'est-ce qu'on pourra mettre dans @who ? -->
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Vous avez été la
+                  <lb/>majorité hier!
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  ...nous ne sommes,
+                  <lb/>nous, qu'une minorité, et ce langage n'au-
+                  <lb/>rait eu aucun sens dans la bouche d'aucun
+                  <lb/>de nous.
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Mais rien ne vous auto-
+                  <lb/>rise à insulter la majorité!
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  <lb/>Je n'ai pas insulté,
+                  <lb/>je n'insulte pas, de parti pris, la majorité;
+                  <lb/>au contraire je l'ai applaudie hier dans sa
+                  <lb/>première manifestation de justice et de
+                  <lb/>conscience. <!-- Le mettre dans un autre u ? mention d'une autre personne qui parle, 
+                     ou alors on considère que c une réaction et donc dans incident -->(Très bien! sur quelques bancs
+                  <lb/>à l'extrémité gauche de la salle. <incident><desc>— Bruit.</desc></incident>)
+               </seg>
+            </u>
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  La rectification porte
+                  <lb/>sur le point suivant: Je n'ai pas dit que
+                  <lb/>nous validerions toutes les élections; j'ai
+                  <lb/>dit, et je Le répète : <!-- Citation ? -->« Nous sommes pour la
+                  <lb/>liberté contre les oppresseurs !...» <incident><desc>(Excla-
+                  <!-- Pas de lb -->mations ironiques au centre et à gauche.)</desc></incident>
+               </seg>
+            </u>
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  C'est pour cela que
+                  <lb/>vous êtes le représentant de la dictature.
+               </seg>
+            </u>
+            <u who="#vot1" ana="speaker">
+               <seg>
+                 <!-- Citation ? -->« ...nous sommes
+                  <lb/>pour la liberté pour tous. Vive la liberté! »
+               </seg>
+               <seg>
+                  <lb/>Et la preuve que ce sont bien là les paro-
+                  <lb/>les que j'ai prononcées, c’est qu’elles sont
+                  <lb/>ainsi rapportées dans le compte rendu ana-
+                  <lb/>lytique et ainsi rapportées dans la plupart
+                  <lb/>des journaux du matin, et que le compte
+                  <lb/>rendu sténographique seul donne une autre
+                  <lb/>version.
+               </seg>
+               <seg>
+                  <lb/>Quant au rappel à l'ordre que ces paroles
+                  <lb/>m'ont attiré, je ne proteste pas contre lui;
+                  <lb/>je l'accepte, au contraire, comme un sym-
+                  <lb/>bole, comme un souvenir du centenaire de
+                  <lb/>la Révolution française fèté par la Répu-
+                  <lb/>blique parlementaire. <incident><desc>(Exclamations en
+                  <!--<lb/>-->sens divers. — Applaudissements sur quel-
+                  <!--<lb/>-->ques bancs à l'extrémilé gauche de la salle.)</desc></incident>
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Le <!-- italique -->Journal officiel me
+                  <lb/>porte comme m'étant abstenu dans le vote
+                  <lb/>sur la validation de l'élection de M. de
+                  <lb/>La Martinière; je déclare que j'étais à ma
+                  <lb/>place et que j'ai déposé moi-même mon
+                  <lb/>bulletin de vote en faveur de la validation.
+                  <lb/>Je m'étonne de cette erreur, et je la re-
+                  <lb/>grette.
+               </seg>
+               <seg>
+                  <lb/>Je fais la même observation pour mon
+                  <lb/>ami M. Martineau, qui a émis le même vote
+                  <lb/>et qui est porté comme s'étant abstenu.
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Messieurs, lorsque M. d'Es-
+                  <lb/>tourmel m'a interrompu pour demander
+                  <lb/>quel était l'auteur de l'article que j'ai cité,
+                  <lb/>on prête les paroles que j'ai prononcées à
+                  <lb/>M. le rapporteur, tandis que c'est moi seul
+                  <lb/>qui ai répondu à M. d'Éstourmel. Je de-
+                  <lb/>mande que la rectification soit faite au
+                  <lb/>procès-verbal.
+               </seg>
+             
+            </u>
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Nous avons élé rete-
+                  <lb/>nus très tard dans nos bureaux pendant la
+                  <lb/>séance d'hier; si j'avais été présent à la
+                  <lb/>première partie de la séance, je déclare que
+                  <lb/>J'aurais voté « pour » la proposition de
+                  <lb/>M. Ferroul et pour celle de M. Maxime Le-
+                  <lb/>comte, et cela dans un sentiment d'huma-
+                  <lb/>nité.
+                  
+               </seg>
+               
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Au nom de M. Ménard-Do-
+                  <lb/>rian, retenu dans une commission, je suis
+                  <lb/>chargé de déclarer qu'il s’est abstenu vo-
+               </seg>
+               
+               <!-- Changement de colonne au sein d'un u -->
+               <cb n="3"/>
+               
+               <seg>
+                  <lb/>lontairement, hier, dans le vote relatif à
+                  <lb/>l'élection de M. de La Martinière, tandis que
+                  <lb/>dans le <!-- Italique -->Journal officiel il est porté comme
+                  <lb/>ayant voté <!-- Citation ? -->« contre ».
+               </seg>
+            </u>
+            
+           
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  Il n'y à pas d'autres
+                  <lb/>observations ?...
+               </seg>
+               <seg>
+                  <lb/>Le procès-verbal est adopté.
+               </seg>
+            </u> 
+         </div>
+         
+         <!-- Nouvelle partie, définir un @corresp pour la div -->
+         <div corresp="#pv">
+            <lb/><head>EXCUSES ET DEMANDES DE CONGÉ</head>
+            <lb/><u who="#vot1" ana="speaker">
+            <seg>
+               M. Le Cour s'excuse de
+               <lb/>ne pouvoir assister à la séance de ce
+               <lb/>jour.
+            </seg>
+            <seg>
+               <lb/>MM. Girodet et Baïhaut s’excusent de ne
+               <lb/>pouvoir assister à la séance dé ce jour, et
+               <lb/>demandent des congés.
+            </seg>
+            <seg>
+               <lb/>Les demandes seront renvoyées à la com-
+               <lb/>mission des congés.
+            </seg>
+            </u>
+         </div>
+         
+         <!-- Nouvelle partie, définir un @corresp pour la div -->
+         <div corresp="#pv">
+            <lb/><head>COMMUNICATION DU GOUVERNEMENT.</head>
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  J'ai reçu de M. le minis
+                  <lb/>tre des finances la lettre suivante :
+               </seg>
+               <!-- ATTENTION : lettre lue, comment la représenter ? -->
+               <seg>
+                  <lb/>« Paris, le 11 novembre 1880. 
+               </seg>
+               <seg>
+                  <lb/>« J'ai l'honneur de vous prier de vouloir
+                  <lb/>bien proposer à la Chambre des députés
+                  <lb/>de désigner un de ses membres pour faire
+                  <lb/>partie, en remplacement de M. Fernand
+                  <lb/>Faure, de la commission de contrôle de la
+                  <lb/>circulation monétaire instituée par
+                  <lb/>31 juillet 1879.
+               </seg>
+               <seg>
+                  <lb/>« Cette commission devant, aux termes
+                  <lb/>de l'article 5 de la loï précitée, se réunir à
+                  <lb/>la fin de chaque année, il serait à désirer
+                  <lb/>due la Chambre procédât à la nomination
+                  <lb/>dont il s’agit dans l'une de ses premières
+                  <lb/>séances.
+               </seg>
+               
+               <seg>
+                  <lb/>« Agréez, monsieur le président, l'assu-
+                  <lb/>rance de ma très haute considération,
+               </seg>
+               
+               <seg>
+                  <lb/>« Le ministre des finances,
+               </seg>
+               
+               <seg>
+                  <lb/>« Signé : ROUVIER. »
+               </seg>
+               
+               <seg>
+                  <lb/>Acte est donné de la communication dont
+                  <lb/>la Chambre vient d'entendre la lecture. Elle
+                  <lb/>sera insérée au procès-verbal de la séance
+                  <lb/>et déposée aux archives.
+               </seg>
+               
+               <seg>
+                  <lb/>La Chambre ayant fixé à jeudi l'élection
+                  <lb/>de deux membres de la commission supé-
+                  <lb/>rieure de la caisse nationale des retraites
+                  <lb/>pour la vieillesse et celle de deux membres
+                  <lb/>de la commission de surveillance des Cais-
+                  <lb/>ses d'amortissement et des dépôts et consi-
+                  <lb/>gnations, je vous proposerai, messieurs, de
+                  <lb/>décider que l'élection d'un membre de la
+                  <lb/>commission de contrôle de la circulation
+                  <lb/>monétaire aura lieu samedi prochain.
+               </seg>
+               
+               <seg>
+                  <lb/>Il n'y a pas d'opposition?...
+               </seg>
+               
+               <seg>
+                  <lb/>L'élection sera mise en tête de l’ordre du
+                  <lb/>jour de samedi.
+               </seg>
+            </u>
+         </div>
+         
+         <!-- Nouvelle partie, définir un @corresp pour la div -->
+         <div corresp="#pv">
+            <lb/><head>SUITE DE LA VÉRIFICATION DES POUVOIRS</head>
+            <lb/><u who="#vot1" ana="speaker">
+               <seg>
+                  L'ordre du jour appelle
+                  la suite de la vérification des pouvoirs.
+               </seg>
+               <seg>
+                  M. Reybert a la parole pour donner lec-
+                  ture d’un rapport sur une élection non con-,
+                  testée.
+               </seg>
+            </u>
+            
+            <lb/><u who="#vot1" ana="speaker">, rapporteur.
+               <seg>
+                  — Département
+                  <lb/>de la Corrèze, arrondissement de Tulle, 1re
+                  <lb/>circonscription.
+               </seg>
+               
+               <seg>
+                  <lb/>Les élections du 22 septembre ont donné
+                  <lb/>les résultats suivants :
+               </seg>
+               <!-- COMMENT encoder les votes au sein même du texte ? -->
+               <seg>
+                  <lb/>Electeurs inscrits, <num>17,950</num>, dont le quart
+                  <lb/>est de 4,263.
+               </seg>
+               <seg>
+                  <lb/>Nombre des votants, 12,322.
+               </seg>
+               <seg>
+                  <lb/>Bulletins blancs et nuls, à déduire, 133.
+               </seg>
+               <seg>
+                  <lb/>Suffrages exprimés, 12,189.
+               </seg>
+               <seg>
+                  <lb/>Ont obtenu :
+                  <lb/>MM. Borie, député sortant... 7.508 voix
+                  <lb/>Vachal, ancien député... 4.748
+               </seg>
+               
+               <seg>
+                  <lb/>M. Borie a été proclamé député comme
+                  <lb/>ayant réuni un nombre de voix au moins
+                  <lb/>égal à la majorité absolue des suffrages
+               </seg>
+            </u>
+         </div>
+         
+      </body>
+      
+      <back>
+         <head>
+            <lb/>Annexes au procès-verbal de la séance
+            <lb/>du <date>mardi 26 novembre 1889</date>.
+         </head>
+         
+         <listEvent xml:id="vot18891126">
+            <event xml:id="vot1" type="voting" corresp="#pv"> <!-- corresp référence au sujet des div -->
+               <head>
+                  <label>SCRUTIN</label>
+                  <!-- En italique comment le représenter ? -->
+                  <note>
+                     Sur les conclusions du 7e bureau tendant à l'an-
+                     nulation des opérations électorales de La 1re
+                     circonscription de l'arrondissement de Lorient
+                     (Morbihan).
+                  </note>
+               </head>
+               
+               <desc>
+                  <!-- Comment représenter la mise en page ? -->
+                  <measure type="nbvotants" quantity="506">
+                     Nombre de votants <num>506</num>
+                  </measure>
+                  <measure type="maj" quantity="254">
+                     Majorité absolue <num>254</num>
+                  </measure>
+                  <!-- Représenter l'alinéa ? -->
+                  <measure type="ayes" quantity="330">
+                     Pour l'adoption <num>330</num>
+                  </measure>
+                  <measure type="noes" quantity="176">
+                     Contre <num>176</num>
+                  </measure>
+               </desc>
+               <note type="result">La Chambre des députés a adopté.</note>
+               
+               
+               <!--<pb n="18"/> n'est pas accepté ici-->
+               <!--<cb n="1"/>-->
+               
+               <!-- Définir les valeurs des attributs -->
+               <note type="listevotants">
+                  <listRelation>
+                     <relation name="votepour" active="#vot1">
+                        <desc> 
+                           <!--<lb/> n'est pas accepté ici-->Ont voté pour :
+                           MM.<persName>Abeille</persName>. <persName>Arène (Emmanuel)</persName>. <persName>Armez</persName>.
+                           <persName>Arribat</persName>. <persName>Audifred</persName>.<persName> Aynard (Edouard)</persName>.
+                           
+                           <persName>Baile (Martial)</persName>. <persName>Bargy. Barodet</persName>. <persName>Barthou</persName>.
+                           <persName>Bartissol</persName>. <persName>Bastid (Adrien)</persName>. <persName>Baulard</persName>. <persName>Beau-
+                           quier</persName>. <persName>Bérard</persName>. <persName>Berger (Georges)</persName> <placeName>(Seine)</placeName>. <persName>Ber- 
+                           trand</persName>. <persName>Bézine</persName>. <persName>Bizarelli</persName>. <persName>Bizot</persName>. <persName>Bizouard-
+                           Bert</persName>. <persName>Blanc (Pierre)</persName>. <persName>Boissy-d’Anglas</persName>. <persName>Bon-
+                           nefoy-Sibour</persName>. <persName>Bony-Cisternes</persName>. <persName>Borriglione</persName>.
+                           <persName>Boucher</persName> <placeName>(Vosges)</placeName>. <persName>Boudenoot</persName>. <persName>Boudeville</persName>. 
+                           <persName>Bouge</persName>. <persName>Boulanger-Bernet</persName>. <persName>Boullay</persName>. <persName>Bour-
+                           geois</persName> <placeName>(Jura)</placeName>. <persName>Bourgeois (Léon)</persName> <placeName>(Marne)</placeName>. <persName>Bou-
+                           thier de Rochefort</persName>. <persName>Bovier-Lapierre</persName>. <persName>Boysset</persName>.
+                           <persName>Braud</persName>. <persName>Breton</persName>. <persName>Briens</persName>. <persName>Brisson(Henri)</persName>. <persName>Brousse
+                           (Emile)</persName>. <persName>Brugnot</persName>. <persName>Brunier</persName>. <persName>Bully</persName>. <persName>Burdeau</persName>.
+                           <persName>Buvignier</persName>.
+                           
+                           Cabart-Danneville. Calvinhac. Carquet. 
+                           Casimir-Perier (Aube). Cavaignac (Godefroy).
+                           Cavalié. Cazauvieilh. Caze (Edmond). Cha-
+                           brié. Charles Roux. Charmes (Francis). Chas-
+                           saing. Chaulin-Servinière. Chautemps. Che-
+                           vandier. Choiseul (Horace de). Chollet. Chris-
+                           tophle (Albert). Clausel de Coussergues. Clau-
+                           zel (Ardèche). Clech. Clémenceau. Clerjounie.
+                           Cochery (Georges). Cordier. Corneau. Cor-
+                           nudet. Cosmao-Dumenez. Cousset. Coutis-
+                           son. 
+                           
+                           Dautresme. David (Alpes-Maritimes). David
+                           (Indre). Deandreis. Delaunay. Delcassé Del-
+                           lestable. Delmas. Deloncle (François). Delpech.
+                           Deluns-Montaud. Demarçay (baron). Deniau.
+                           Denizot. Deprez (André) (Pas-de-Calais). De-
+                           proge. Descamps (Albert). Deschanel (Paul).
+                           Desmons. Després (Armand) (Seine). Dethou.
+                           Develle (Jules). Deville. Dreyfus (Camille).
+                           Dron. Dubois (Arnault) (Corrèze). Dubois
+                           (Emile) (Nord). Dubost (Antonin). Duchas-
+                           seint. Duclaud. Ducoudray. Ducroz. Dujar-
+                           din-Beaumetz (Aude). Dumas. Dumay. Dupuy
+                           (Charles) (Haute-Loire). Dupuy-Dutemps(Tarn).
+                           Durand-Savoyat (James). Duval (César).
+                           
+                           Eliez-Evrard. Euzière.
+                           
+                           Fanien (Achille). Farjon. Faure (Félix)
+                           (Seine-Inférieure). Ferry (Albert). Ferry
+                           (Emile). Flourens. Folliet. Forcioli. Fou-
+                           geirol- François (Alfred). Franconie.
+                           
+                           Gacon. Gaillard (Jules) (Vaucluse). Gaillard
+                           (Oise). Garnier (Charente-Inférieure). Gasté
+                           (de). Gastellier. Gaussorgues (Frédéric). Ger-
+                           bay. Germain (Constant) (Haute - Garonne).
+                           Germain (Henri) (Ain). Gervais (Jules). Ger-
+                           ville-Réache. Gévelot. Giguet. Gillot. Goi-
+                           rand. Gotteron. Granet. Grefülhe (comte).
+                           Grisez. Guéguen. Guillaumou, Guillemaut.
+                           Guyot-Dessaigne.
+                           
+                           Hainsselin. Haulon. Haynaut. Hémon.
+                           Herbet. Hiroux. Horteur. Hovelacque. Hub-
+                           bard (Gustave). Hurard.
+                           
+                           Isambert (Gustave). Isoard.
+                           
+                           Jacquemart. Jacquemin. Jacques. Jamais
+                           (Emile). Jofrin. Jonnart. Joufray (Isère).
+                           Jouffroy-d’Abbans (comte de) (Doubs). Jourdan
+                           (Louis). Jumel.
+                           
+                           Kerjégu (J. de).
+                           
+                           La Batut (de). Labrousse. Labussière. La-
+                           chize (Rhône). Lacretelle (Henri de). Lacroix
+                           (Loiret). Laffitte de Lajoannenque (de). Laf-
+                           fon (René) (Yonne). Lagnel. Lagrange. Lan-
+                           glet. Lasbaysses. Lascombes. Lasserre. Lau-
+                           rençon. Lavertujon (Henri). Laville. Le-
+                           baudy. Leborgne. Lechevallier. Lecomte 
+                           (Maxime) (.Nord). Leconte (Alfred) (Indre). Le- 
+                           dieu. Léglise. Legludic. Legras. Lemercier 
+                           (comte). Leroy (Arthur) (Côte-d'Or). Letellier.
+                           Levêque. Levet (Georges). Leydet. Leysues.
+                           Linard. Lockroy. Lombard (Isère). Loriot.
+                           Loustalot.
+                           
+                           Mac-Adaras. Macherez. Madier de Montjau,
+                           Magnien. Mahy (de). Maigne (Jules). Mande-
+                           ville. Maret (Henry). Marmottan. Martinon.
+                           Marty. Maruéjouîs. Mathé (Félix) (Allier)
+                           Mathé (Henri) (Seine). Maujan. Maurice-Faure 
+                           (Drôme). Méline. Mercier. Merlou. Mesu-
+                           reur. Mézières. Michau (Nord). Michel (Al-
+                           fred). Michou (Aube). Millerand. Million
+                           (Louis). Milochau. Mir. Montant (Seine-et-
+                           Marne). Moreau (Emile). Mougin.
+                           
+                           Nivert. Noël-Parfait.
+                           
+                           Obissier Saint-Martin. Ordinaire (Dinonys).
+                           Ouvré.
+                           
+                           Pajot. Papelier. Pelletan (Camille), Périer
+                           de Larsan (du) (Gironde). Perrier (Antoine) (Sa-
+                           voie). Pesson (Albert). Peytral. Philipon. 
+                           Pichon (Seine). Pierre Alype. Pierre Legrand
+                           <!--<cb n="1"/>-->
+                           (Nord). Pochon. Poincaré (Raymond). Ponle-
+                           voy (Frogier de). Poupin. Pourquery de Bois-
+                           serin. Prévet. Prost (Victor). Proust (Anto-
+                           nin).
+                           
+                           Quintaa.
+                           
+                           Rabier. Rambourgt. Raspail (Camille) (Var).
+                           Rathier. Raynal. Réaux (Marie-Emile). Rei-
+                           nach (Joseph). Révillon (Tony). Rey (Aristide)
+                           (Isère). Rey (Lot), keybert. Ribot. Riotteau.
+                           Rivet (Gustave). Roche (Jules) (Savoie). Rol-
+                           land. Rousse. Royer (Louis-Auguste) (Aube).
+                           Royer (Meuse). Rozet (Albin).
+                           
+                           Saint-Germain. Saint-Romme. Salis. Sar-
+                           rien. Say(Léon). Sibille. Siegfried. Signard.
+                           Simon (Fidèle). Sirot. Souhet. Sourigues.
+                           Surchamp.
+                           
+                           Talou (Léon). Tassin. Terrier. Theulier.
+                           Thierry-Delanoue. Thiers (Edouard). Thomas.
+                           Thomson. Thorel. Trannin. Trouillot (Georges).
+                           
+                           Vacherie. Vallé. Vallon (amiral). Varlet.
+                           Vernhes. Vernière. Viette. Viger. Vignan-
+                           cour. Vilar (Edouard). Ville. Villemonte.
+                           Viox. Vival.
+                           
+                           Waddington (Richard). Werquin.
+                        </desc>
+                     </relation>
+                     
+                     
+                     <relation name="votecontre" active="#vot1">
+                        <desc>
+                           Ont voté contre : 
+                           MM. <persName>Abrial (Léon)</persName>. Adam (Achille). Aigle
+                           (comte de 1’). Ailliéres (d’). Aimel (Henri).
+                           Amagat. Arenberg (prince d’). Argeliès. Ar-
+                           nault. Arnous.
+                           
+                           Balsan. Bar (de). Barascud. Barbotin.
+                           Barrés (Maurice). Belleval (de). Benazet. Benoit
+                           (de). Berger (Maine-et-Loire). Bergerot. Ber-
+                           nis (comte de). Bezanson. Bigot. Blachère.
+                           Blin de Bourdon (vicomte). Boisboissel (de).
+                           Borie. Boucher (Finistère). Boudeau. Bour-
+                           geois (Paul) (Vendée). Breteuil (marquis de).
+                           Breuil de Saint-Germain (du). Brincard.
+                           
+                           Cafarelli (comte). Carron. Castelin. Champ-
+                           rallier (de). Chiché. Cibiel. Cluseret. Col-
+                           bert-Laplace (comte de). Cornulier (marquis
+                           de).
+                           
+                           Daynaud. Dejardin-Verkinder (Nord). Dela-
+                           fosse (Jules) (Calvados). Delafosse (Mario) (Ille-
+                           et-Vilaine). Déroulède (Paul). Descaure. Des-
+                           jardins (Aisne). DompierredHornoy (vice-ami-
+                           ral de). Du Bodan. Dugué de la Fauconnerie.
+                           Dumonteil.
+                           
+                           Elva (Christian) (comte d’). Engerand. Es-
+                           chasseriaux (baron). Espeuilles (comte d’) 
+                           Estourmel (marquis d'). Etcheverry.
+                           
+                           Fairé. Farcy (Eugène). Fauré (Gers). Fer-
+                           roui. Fouquet (Camille). Fourtou (de). Frep-
+                           pel. Frescheville (général de). Froin (Al-
+                           cée).
+                           
+                           Gabriel. Galpin (Gaston). Garnier (Yonne).
+                           Gauthier (de Clagny). Gavini. Gérard (baron).
+                           Godelle. Goussot. Goyon (de). Granger. Gra-
+                           nier de Cassagnac (Paul). Guilloutet (de).
+                           
+                           Haussmann. Hély d’Oissel.
+                           
+                           Jolibois. Jourde. Juigné (comte de). Jules 
+                           Jaluzot.
+                           
+                           Kergorlay (comte de). Kermenguy (vi-
+                           comte de).
+                           
+                           La Bassetière (Louis de). Labat. Lacretelle
+                           (général). Ladoucette (baron de). Laguerre.
+                           Laisant. Lalou. La Martinière (de). Lamar-
+                           zelle (de). Lanjuinais (comte de). La Nouë
+                           (viComte de). Laporte (Gaston). Largentaye
+                           (Rioust de). La Rochefoucauld, duc de Dou-
+                           deauville. La Rochejaquelin (marquis de). La-
+                           roche-Joubert. Laur. Le Cerf. Le Gavrian.
+                           Legrand (Arthur) (Manche). Le Hérissé. Léon
+                           (prince de). Léouzon-Leduc. Le Roux (Paul°.
+                           Le Senne. Le Veillé. Lévis-Mirepoix (comte
+                           de). Lorgeril (de). Lorois (Emile) (Morbihan).
+                           Lur-Saluces (de).
+                           
+                           Mackau (baron de). Malartre. Maréchal.
+                           Martin (Marius). Martineau. Mège. Mesnildot
+                           (du). Millevoye (Lucien). Montalembert (comte
+                           de). Montéty (de . Multedo (comte). Mun
+                           (comte Albert de).
+                           
+                           Naquet (Alfred).
+                           
+                           Olry. Ornano .(Cuneo d’).
+                           
+                           Pasquier. Paulin-Méry. Paulmier. Pey-
+                           russe. Picot. Plichon (Nord). Pontbriant
+                           (comte de). Pontois. Porteu (Armand). Pos-
+                           sesse (de). Poulié. Prax-Paris. Prénat.
+                           Ramel (de . Rauline. Reille (baron), Re-
+                           nard (Léon). Revest. Richard (Pierre/. Ro-
+                           bert-Mitchell. Roche (Ernest) (Seine). Ro-
+                           ques. Retours (baron des). Rouvre (Bourion
+                           de). Roy de loulay (Louis).
+                           
+                           <!--<cb n="3"/>-->
+                           Sabouraud. Saint-Martin (de)(Indre). Saint-
+                           Martin (Seine). Saussay (dm. Serph (Gus-
+                           man). Solages (marquis de). Soubeyran (ba-
+                           ron de).
+                           
+                           Tailliandier. Taudière. Terrail-Mermeix.
+                           Thellior de Poncheville. Théron. Thivrier.
+                           Turigny.
+                           
+                           Vacher. Vilfeu. Villeneuve (de)
+                           
+                           Witt (Conrad de).
+                        </desc>
+                     </relation>
+                     
+                     <relation name="abstention" active="#vot1">
+                        <desc>
+                           N'ont pas pris part au vote :
+                           MM. Armand (comte). Barbe. Batiot (Aris-
+                           tide). Baudin. Baudry d'Asson (de). Bischof-
+                           sheim. Boyer (Antide). Cazenove de Pradine
+                           (de). Colombet (de). Constans. Couturier.
+                           Delahaye, Dillon. Douviile-Maillefeu (comte
+                           de). Dufaure (Amédée). Dupuytrem.
+                           
+                           Etienne.
+                           
+                           Fallières. Floquet (Charles). Fould (Achille).
+                           Fouquier (Henry).
+                           
+                           Gonidec de Traissan (comte le). Graux (Geor-
+                           ges). Grousset.
+                           
+                           Kergariou (de).
+                           
+                           La Bourdonnaye (vicomte de). La Chambre.
+                           Lachièze (Lot). Lacôte. La Ferronnays (mar-
+                           quis de). Lanessan (de). Lareinty (Jules de).
+                           Le Provost de Launay. Le Roy (Edouard) (la
+                           Réunion). Loreau. 
+                           
+                           Maillé (comte de). Meilhodon. Ménard-
+                           Dorian. Montfort (vicomte de). Montgolfier
+                           (de). Montsaulnin (de). Morillot (Léon). Mo-
+                           rin-Latour. Moustier (marquis de).
+                           
+                           Neyrand.
+                           
+                           Passy (Louis) (Eure). Piérard (baron). Pla-
+                           zanet (colonel de).
+                           
+                           Razimbaud. Rouvier.
+                           
+                           Schneider (Henri). Sentenac. Soland (de).
+                           Spuller. 
+                           
+                           Ternisien. Terves (comte de). Thévenet.
+                           Thirion-Montauban.
+                           
+                           Villebois-Mareuil (vicomte de).
+                           
+                           Yves Guyot.  
+                        </desc>
+                     </relation>
+                     
+                     <relation name="abst">
+                        <!-- passive = "#vot1# active= renvoie à l'XML de la section "Excuses et demandes de congés" -->
+                        <desc>
+                           Absents pas congés :
+                           MM. Baïhaut. Bourlier. Féraud. Girodet.
+                           Gonnet (Gontrand). Jullien. Le Cour. Piol
+                           (Jacques). Turrel (Adolphe).
+                        </desc>
+                     </relation>
+                  </listRelation>
+               </note>
+               
+               <note type="nbvotantsinitial">
+                  Les nombres annoncés en séance avaient
+                  été de:
+                  <desc>
+                     <!-- Comment représenter la mise en page ? -->
+                     <measure type="nbvotants" quantity="514">
+                        Nombre de votants <num>514</num>
+                     </measure>
+                     <measure type="maj" quantity="258">
+                        Majorité absolue <num>258</num>
+                     </measure>
+                     <!-- Représenter l'alinéa ? -->
+                     <measure type="ayes">
+                        Pour l'adoption <num>333</num>
+                     </measure>
+                     <measure type="noes">
+                        Contre <num>181</num>
+                     </measure>
+                  </desc>
+                  Mais, après vérification, ces nombres ont été
+                  rectifiés conformément à la liste de scrutin
+                  ci-dessus.
+               </note>
+            </event>
+            
+            
+            
+
+            <event xml:id="vot2">
+               <head>
+                  <label>SCRUTIN</label>
+                  <!-- En italique comment le représenter ? -->
+                  <note>
+                     Sur l'amendement de M. Leygues, tendant à l'an'
+                     nulation don opérations électorales de la 2e
+                     circonscription de Montauban ( Tarn-et-Ga
+                     ronne). (Résultat du pointage.) 
+                  </note>
+               </head>
+               
+               <desc>
+                  <!-- Comment représenter la mise en page ? -->
+                  <measure type="nbvotants" quantity="516">
+                     Nombre de votants <num>516</num>
+                  </measure>
+                  <measure type="maj" quantity="259">
+                     Majorité absolue <num>259</num>
+                  </measure>
+                  <!-- Représenter l'alinéa ? -->
+                  <measure type="ayes" quantity="275">
+                     Pour l'adoption <num>275</num>
+                  </measure>
+                  <measure type="noes" quantity="241">
+                     Contre <num>241</num>
+                  </measure>
+               </desc>
+               <note type="result">La Chambre des députés a adopté.</note>
+               
+               <note type="listevotants">
+                  <listRelation>
+                     <relation name="votepour" active="#vot2">
+                        <desc>
+                           ONT VOTÉ POUR :
+                           
+                           MM. Abeille. Arène (Emmanuel). Armez.
+                           Audifred.
+                           
+                           Baile ( Martial ). Bargy. Barodet. Barthou.
+                           Bartissol. Batiot (Aristide). Baulard. Bérard.
+                           Bertrand. Bézine. Bizarelli. Bizot. Bizouard.
+                           Bert. Blanc (Pierre). Boissy-d'Anglas. Bon-
+                           nefoy-Sibour. Bony-Cisternes. Boucher (Vos-
+                           ges). Boudenoot. Bouge. Boulanger-Berne
+                           Boullay. Bourgeois (Jura). Bourgeois (Léon)
+                           (Marne). Bouthier de Rochefort. Bovier-La-
+                           pierre. Boysset. Braud. Breton. Briens.
+                           Brisson (Henri). Brousse (Emile). Brusnot.
+                           Brunier. Burdeau. Buvignier.
+                           
+                           <!--<pb n="19"/>
+                           <cb n="1"/>-->
+                           
+                           Cabart - Danneville.  Calvinhac.  Carquet.
+                           Casimir-Perier (Aube). Cavaignac (Godefroy).
+                           Cavalié. Cazauvieilh.  Caze (Edmond). Cha-
+                           brié. Charmes (Francis). Chaulin-Servinière.
+                           Chautemps. Chevandier. Choiseul (Horace de).
+                           Chollet. Clausel de Coussergues. Clauzel (Ar-
+                           dèche). Clech. Clémenceau. Clerjounie. Co-
+                           Chery (Georges). Cordier. Corneau. Cornu-
+                           det. Cosmao-Dumenez. Cousset.
+                           
+                           Dautresme. David (Indre). Deandreis. De-
+                           launay. Delcassé. Dellestable. Delmas. Del-
+                           pech. Deluns-Montaud. Demarçay (baron).
+                           Deniau. Denizot. Deprez (André) (Pas-de-Ca-
+                           lais). Deproge. Descamps (Albert). Desmons.
+                           
+                           Dethou, Develle (Jules). Deville. Dreyfus
+                           (Camille). Dron. Dubois (Arnault) (Corrèze).
+                           Bubois (Emile) (Nord). Dubost (Antonin). Du-
+                           Chasseint. Duclaud. Ducoudray.  Ducroz.
+                           Dujardin-Beaumetz (Aude). Dumas. Dumay.
+                           Dupuy (Charles) (Haute-Loire).  Dupuy-Du-
+                           temps (Tarn). Duval (Gésar).
+                           
+                           Eliez-Evrard. Euzière.
+                           
+                           Fanien (Achille). Farjon. Faure (Félix)
+                           (Seine-inférieure). Ferry (Albert), Ferry (Emile),
+                           Folliet. Worcioli. Fougeirol. François (Al-
+                           fred).
+                           
+                           Gacon. Gaillard (Jules) (Vaucluse). Garnier
+                           (Charente-Inférieure). Cale) Gerbay,
+                           Germain (Constant) (Haute-Garonne). Gerville-
+                           Réache. Giguet. Gillot. Goirand. Gotteron.
+                           Granet. Grisez. Guéguen. Guillaumou. Guil-
+                           lemaut. Guyot-Dessaigne.
+                           
+                           Hainsselin. Haulon.  Haynaut. Hémon.
+                           Herbet. Horteur. Hovelacque. Hubbard (Gus-
+                           lave). Hurard.
+                           
+                           Isambert (Gustave). Isoard.
+                           
+                           Jacquemart. Jacquemin. Jacques. Jamais
+                           (Emile). Joffrin. Jonnart. Jouffray (Isère).
+                           Jourdan (Louis). Jumel.
+                           
+                           La Batut (de). Labrousse. Labussière. La-
+                           côte. Lacretelle (Henri de). Lacroix (Loiret)
+                           Laffitte de Lajoannenque (de). Lafon (René)
+                           (Yonne). Lagnel. Lagrange. Langlet. Las-
+                           baysses. Lascombes. Lasserre. Laville. Le-
+                           borgne. Lecomte (Maxime) {Nord). Leconte
+                           (Alfred) (Indre). Ledieu. Léglise. Legludic.
+                           Legras. Leroy (Arthur) {côte-d'or). Letellier.
+                           Levêque. Levet (Georges). Leÿydet. Leygues.
+                           Linard. Lockroy. Lombard (Isère), Loriot.
+                           Loustalot.
+                           
+                           Macherez. Madier de Montjau. Magnien.
+                           Maigne (Jules). Mandeville. aret (Henry).
+                           Marmottan. Martinon. Marty. Maruéjouls.
+                           Mathé (Félix) (Allier). Mathé (Henri) (Seine).
+                           Maujan. Maurice- Faure (Drôme). Merlou.
+                           Mesureur. Michau (Nord). Michel (Alfred).
+                           Michou ven Millerand. Million (Louis)
+                           Mir. Montaut (Seine-et-Marne). Moreau
+                           (Emile). Mougin.
+                           
+                           Nivert.
+                           
+                           Obissier Saint-Martin. Ouvré.
+                           
+                           Pajot. Papelier. Pelletan (Camille). Périer
+                           de Larsan (du) (Gironde). Perrier (Antoine)
+                           (Savoie). Peytral. Pichon (Seine). Pierre Le-
+                           grand (Nord). Pochon. Poincaré (Raymond).
+                           onlevoy (Frogier de . Poupin. Pourquery de
+                           Boisserin. Prost (Victor) Proust (Antonin).
+                           
+                           Quintaa.
+                           
+                           Rabier. Rambourgt. Raspail (Camille) (Var).
+                           Rathier.  Réaux (Marie-Er ile). Ronde (Jo-
+                           seph). Révillon (Tony). Rey (Aristide) (Isère).
+                           Reybert. Ribot. Riotteau. Rivet (Gustave).
+                           Rolland. Rousse. Royer (Louis-Auguste)(Aube).
+                           Royer (Meuse). 
+                           
+                           Saint-Germai., Saint-Romme. Salis. Sar-
+                           rien. Sibille. Signard. Sirot. Sourigues, Sur-
+                           champ.
+                           
+                           Tassin. Terrier. Theulier. Thierry-Dela-
+                           noue. Thiers (Edouard). Thomas. Thomson.
+                           Thorel. Trannin. Trouillot.
+                           
+                           Vacherie. Valle. Vallon (amiral). Varlet.
+                           Vernhes. Vernière. Viette. Viger. Vignan-
+                           cour. Vilar (Edouard). Ville. Villemonte. Viox.
+                           Vival.
+                           
+                           Werquin.
+                        </desc>
+                     </relation>
+                     
+                     <relation name="votecontre" active="#vot1">
+                        <desc>
+                           MM. Abrial (Léon). Adam (Achille). Aigle
+                           (comte de l') Aïllières (d). Aimel (Henri).
+                           Amagat. Arenberg (prince d). Argeliès. Ar-
+                           mand (comte). Arnous. Aynard.
+                           
+                           Balsan. Bar (de). Barascud. Barbotin. Bar-
+                           rès (Maurice). Baudry-d'Asson (de). Belval (de).
+                           
+                           <!--<cb n="2"/>-->
+                           Benazet. Benoit(de). Berger (Maine-et-Loire).
+                           Bergerot. Bernis iome de). Bezanson. Bi-
+                           got. Blachére. Blin de Bourdon Noire):
+                           Boishoissel (de). Borie. Boucher (Finistère
+                           Boudeau. Bourgoois (Paul) (Vendée). Boyer
+                           (Antide). Breteuil (marquis de). Breuil de
+                           Saint-Germain (du). Brincard. Bully.
+                           
+                           Caffarelli (comte). Carron. Castelin. Cazenove
+                           de Pradine (de). Champvallier (de). Charles
+                           Roux. Chassaing. Chiché. Cibiel. Cluseret.
+                           Cotbert-Laplace (comte de). Colombet (de).
+                           Cornulier (marquis de). Coutisson. Couturier.
+                           
+                           Daynaud. Dejardin-Verkinder (Nord). Dela-
+                           fosse (Jules) (Calvados). Delafosse (Marie) (Ile-
+                           et-Vilaine). Delahaye. Déroulède Fed Des-
+                           caure. Deschanel (Paul). Desjardins (Aisne).
+                           Després (Armand) (Seine). Dompierre d'Hor-
+                           noy (vice-armiral de). Du Bodan. Dufaure
+                           Re Dugué de la Fauconnerie. Dumon-
+                           eil. Dupuytrem. Durand-Savoyat (James).
+                           
+                           Elva (Christian) (comte d’) Engerand. Es-
+                           chasseriaux (baron). Espeuilles (comte d').
+                           Estourmel (marquis d'). Etcheverry.
+                           
+                           Fairé. Farcy (Eugène). Fauré (Gers). Fould
+                           (Achille). Fouquet (Camille). Fourtou (de).
+                           Freppel  Frescheville (général de). Froin
+                           (Alcée).
+                           
+                           Gabriel. Gaillard (Oise). Galpin (Gaston).
+                           Garnier (Yonne). Gasté(de). Gauthier (de Gla-
+                           gny). Gavini. Gérard (baron). Germain (Henri)
+                           (Ain). Gorvais (Jules). Godelle. Gonidec de
+                           Traissan (comte Le). Goussot. Goyon (de).
+                           Granger. Granier de Cassagnac (Paul). Grous-
+                           set. Guilloutet (de).
+                           
+                           Haussmann. Hély d'Oissel.
+                           
+                           Jolibois. Jouffroy-d'Abbans (comte de) (Doubs).
+                           Jourde. Juigné (comte de). Jules Jaluzot.
+                           
+                           Kergariou (de). Kergorlay (comte de). Ker-
+                           menguy (vicomte de).
+                           
+                           La Bassetière (Louis ae Labat. La Bour-
+                           donnaye (vicomte de). La Chambre. Lacre-
+                           telle (général) Ladoucette (baron de). La
+                           Ferronnays (marquis de). Laguerre. Laisant.
+                           Lalou. La Martinière (de). Lamarzelle (de).
+                           Lanjuinais (comte de). La Nouë (vicomte de).
+                           Laporte (Gaston). Lareinty (Jules de). Lar-
+                           genftaye (Rioust de). La Rochefoucauld, duc de
+                           Doudeauville. La FAO ANUeIen (marquis
+                           de). Laroche-Joubert. aur.  Laurençon.
+                           Lebaudy. Le Cerf. Lechevallier. Le Gavrian.
+                           Legrand (ArtBur) (Manche). Le Hérissé. Le-
+                           mercier (comte). Léon (prince de). Léouzon-
+                           Leduc. Le Provost de Launary. Le Roux
+                           (Paul). Le Roy (Edouard) (la Réunion). Le
+                           Senne. Le Veillé. Lévis-Mirepoix (comte de).
+                           Loreau. Lorgeril io Lorois (Emile) (Morbi-
+                           han). Lur-Saluces (de).
+                           
+                           Mackau (baron de). Maillé (comte de).
+                           Malartre. Maréchal. Martin (Marius). Mar-
+                           tineau. Mège. Meilhodon. Mercier. Mes-
+                           nildot (du). Mézières.  Millévoye (Lucien).
+                           Milochau. Montalembert (comte de). Montéty
+                           pons de). Montfort (de). Montgolfier (de),
+                           ontsaulnin (de). Morillot (Léon),  Morin-
+                           Latour.  Moustier (marquis de).  Muitedo
+                           (comte). Mun (comte Albert de).
+                           
+                           Naquet (Alfred). Neyrand. Noël-Parfait.
+                           
+                           Olry. Ornano (Cuneo d').
+                           
+                           Pasquier. Passy (Louis) (Eure).  Paulin-
+                           Méry. Paulmier. Pesson (Albert). Peyrusse.
+                           Picot. Piérard (baron). Plazanet (colonel de).
+                           Plichon (Nord). Pontbriand (comte de). Pontois.
+                           Porteu (Armand). Possesse (de. Poulié. Prax-
+                           Paris. Prénat. Prevet.
+                           
+                           Ramel (de). Rauline. Reille (baron). Re-
+                           nard (Léon). Revest. Rey (Lot). Richard
+                           (Pierre). Robert- Mitchell. Roche (Ernest)
+                           (Seine). Roques. Rotours (baron des). Rouvre
+                           (Bourlon de). Roy de Loulay (Louis). Rozet
+                           (Albin).
+                           
+                           Sabouraud. Saint-Martin (de) (Indre). Saint-
+                           Martin (Seine). Saussay (du). Say (Léon).
+                           Schneider (Henri). Sentenac. Serph (Gurman).
+                           Siegfried. Solages marquis de). Soland (de).
+                           Soubeyran (baron de).
+                           
+                           Tailliandier. Talou (Léon). Taudière. Ter-
+                           rail-Mermeix. Terves (comte de). Thellier de
+                           Poncheville. Théron, Thirion- Montauban.
+                           Thivrier. Turigny.
+                           
+                           Vacher. Vilfeu. Villebois-Mareuil (de). Vil-
+                           leneuve (de).
+                           
+                           Waddington (Richard). Witt (Conrad de).
+                        </desc>
+                     </relation>
+                     
+                     <!--<cb n="3"/>-->
+                     <relation name="abstention" active="#vot2">
+                        <desc>
+                           N'ONT PAS PRIS PART AU VOTE :
+                           
+                           MM. Arnault. Arribat.
+                           
+                           Barbe. Bastid (Adrien). Baudin. Beauquier.
+                           Berger (Georges) (Seine). Bischoffsheim. Bor-
+                           riglione. Boudeville.
+                           
+                           Christophle (Albert). Constans.
+                           
+                           David (Alpes-Maritimes).  Deloncle (Fran-
+                           çois). Douville-Maillefeu (comte de).
+                           
+                           Etienne.
+                           
+                           Fallières. Ferroul. Floquet (Charles). Flou-
+                           rens. Fouquier (Henry). Franconie.
+                           
+                           Gaussorgues (Frédéric). Gévelot. Graux
+                           (Georges). Greffülhe (comte).
+                           
+                           Hiroux.
+                           
+                           Kerjégu (J. de).
+                           
+                           Lachièze (Lot).  Lachize (Rhône). Lanessan
+                           (de). Lavertujon (Henri).
+                           
+                           Mac-Adaras. Mahy (de). Méline. Ménard-
+                           Dorian.
+                           
+                           Ordinaire (Dionys).
+                           
+                           Philipon. Pierre Alyfe.
+                           
+                           Raynal. Razimbaud. Roche (Jules) (Savoie).
+                           Rouvier.
+                           
+                           Simon (Fidèle). Souhet. Spuller.
+                           
+                           Ternisien. Thévenet.
+                           
+                           Yves Guyot.
+                        </desc>
+                     </relation>
+                     
+                     <relation name="abst">
+                        <!-- passive = "#vot1# active= renvoie à l'XML de la section "Excuses et demandes de congés" -->
+                        <desc>
+                           ABSENTS PAR CONGÉ :
+                           
+                           MM. Baïhaut. Bourlier. Féraud. Girodet.
+                           Gonnet (Gontran). Jullien. Le Cour. Piou
+                           (Jacques). Turrel (Adolphe).
+                        </desc>
+                     </relation>
+                     
+                  </listRelation>
+               </note>
+
+               <note type="comment">
+                  M. Georges Graux, absent au moment du vote
+                  ui précède, déclare que, s'il avait été présent,
+                  il aurait voté « contre » l'annulation de l'élec-
+                  tion.
+               </note>
+            </event>
+            
+            
+            
+            <!-- ref doit avoir la date du 26 ou du 25 ? ou alors créer autre attribut pour mettre la date du 25 aussi -->
+            <event ref="#vot18891126" type="rectifications">
+               <!-- ref = xml-id des scrutins concernés donc ici #vot18891125 -->
+               <head>
+                  Rectifications aux scrutins de la séance
+                  du <date>25 novembre 1889</date>.
+               </head>
+               
+               <desc/>
+               <!-- encoder les dates ? -->
+               <note>
+                  M. Michau (Nord), porté comme s'étant abs-
+                  tenu dans le scrutin sur l'urgence de la propo-
+                  sition de M. Maxime Lecomte, déclare avoir
+                  voté « pour ».
+               </note>
+               <note>
+                  M. Léon Bourgeois (Marne) déclare qu'il a été
+                  porté par erreur comme ayant voté « pour »
+                  dans le scrutin sur la demande d'invalidation
+                  de l'élection de M. de La Martinière dans la
+                  2e circonscription de Coutances (Manche), et
+                  qu'en réalité il « s'était abstenu ».
+               </note>
+               <note>
+                  M. Argeliés, absent an moment des scrutins
+                  du 25 novembre sur les demandes d'invalida-
+                  tion des élections de MM. Blachére et de La
+                  Martinière, déclare que, s'il avait été présent,
+                  il aurait voté « pour » la validation des élec-
+                  tions.
+               </note>
+               <note>
+                  MM. Varlet et Charles Dupuy (Haute-Loire),
+                  absents aumoment des votes:
+                  
+                  1° Sur le passage à la discussion des articles
+                  de la proposition de M. Ferroul;
+                  
+                  2 Sur l'urgence de la proposition de M. Maxi-.
+                  me Lecomte,
+                  
+                  Déclarent que, s'ils avaient été présents, ils
+                  auraient voté « conre » dans ces deux scru-
+                  tins.
+               </note>
+               <note>
+                  M. Léon Say, porté comme s'étant abstenu
+                  dans le scrutin sur la demande d'enquête —
+                  élection de M. Blachère, — déclare avoir votés
+                  « contre » l'enquête.
+               </note>
+            <!-- Dernière phrase sur l'impression du journal à garder ? -->
+            </event>
+            
+            
+            
+            <event>
+               <head/>
+               <desc/>
+               <note/>
+            </event>
+            <event>
+               <desc>Rectifications</desc>
+               <note/>
+            </event>
+         </listEvent>
+      </back>
+   </text>
+</TEI>
